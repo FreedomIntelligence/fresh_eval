@@ -1,11 +1,12 @@
 
 
 <!-- short for playwright -->
-conda create -n PR3 python=3.6
+<!-- conda create -n PR3 python=3.6
 
 y
 
-conda activate PR3
+conda activate PR3 -->
+I use RWKV2 as the environment
 pip install playwright
 playwright install
 
