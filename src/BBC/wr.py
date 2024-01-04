@@ -22,10 +22,10 @@ import json
 import datetime
 def extract_text(page, selector):
     elements = page.query_selector_all(selector)
-    print(page.content())
+    # print(page.content())
     return "\n".join([element.inner_text() for element in elements if element.inner_text().strip()])
 
-def run(playwright):
+def run(playwright,config):
     browser = playwright.chromium.launch(headless=False)
     context = browser.new_context()
     
@@ -68,7 +68,7 @@ def run(playwright):
 
 
         entry = {"date": datetime.datetime.now().strftime("%Y-%m-%d-%H-%M"), "error": error, "url": full_url,'text_blocks':text_blocks}
-        with open("BBCdata.jsonl", "a", encoding="utf-8") as file:
+        with open(config['save_path'], "a", encoding="utf-8") as file:
             # for entry in data:
             json.dump(entry, file, ensure_ascii=False)
             file.write("\n")
@@ -79,5 +79,10 @@ def run(playwright):
     context.close()
     browser.close()
 
-with sync_playwright() as playwright:
-    run(playwright)
+def wr_bbc(config=None):
+    if  config is None:
+        config={}
+        config['save_path']='.data/BBC_data.jsonl'
+
+    with sync_playwright() as playwright:
+        run(playwright,config)

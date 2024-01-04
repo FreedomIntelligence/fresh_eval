@@ -1,55 +1,96 @@
+
 from playwright.sync_api import sync_playwright
 import json
-from datetime import datetime
+import datetime
+def extract_text(page, selector):
+    elements = page.query_selector_all(selector)
+    # print(page.content())
+    return "\n".join([element.inner_text() for element in elements if element.inner_text().strip()])
 
-def scrape_wikipedia_new_pages(limit=50):
-    with sync_playwright() as playwright:
-        # 启动浏览器
-        browser = playwright.chromium.launch(headless=True)
-        context = browser.new_context()
-        page = context.new_page()
+def random_scroll(page, max_scrolls=None):
+    import random
 
-        # 导航至 Wikipedia 新页面列表
-        page.goto(f"https://en.wikipedia.org/w/index.php?title=Special:NewPages&offset=&limit={limit}")
+    if max_scrolls is None:
+        max_scrolls=7
+    for _ in range(max_scrolls):
+        # Scroll to a random position on the page
+        scroll_height = random.randint(500, 10000)
+        page.evaluate(f"window.scrollBy(0, {scroll_height})")
+        
+        # Wait for a random amount of time
+        random_wait = random.uniform(0.5, 3.0)
+        page.wait_for_timeout(int(random_wait * 1000))
 
-        # 选择所有链接
-        links = page.query_selector_all("ul li a")
+def run(playwright,config):
+    browser = playwright.chromium.launch(headless=False)
+    context = browser.new_context()
+    
+    # 打开 BBC 新闻主页
+    page = context.new_page()
+    page.goto("https://en.wikipedia.org/wiki/Special:NewPagesFeed")
+    random_scroll(page=page,max_scrolls=config['max_scrolls'] if 'max_scrolls' in config else None)
 
-        data = []
-        for link in links:
-            # 提取链接的 URL 和文本
+    # 获取所有新闻链接
+    parent_div_selector = "div.mwe-vue-pt-info-pane"
+    # Find the first div inside the parent div
+    news_links = page.query_selector_all(f"{parent_div_selector} > div > div > span > a") 
+
+
+    # news_links = page.query_selector_all("a[data-testid='internal-link']")
+    urls = [link.get_attribute("href") for link in news_links if link.get_attribute("href")]
+    urls = [link for link in urls if link.startswith("/wiki")]
+
+    print('urls:',urls)
+
+    # 遍历链接并提取信息
+    for url in urls:#[20:26]
+        # endswith a number:
+        # if not url[-1].isdigit():
+        #     print("not endswith a number skip",url)
+        #     continue
+        full_url=f"https://en.wikipedia.org{url}"
+        print("url:",full_url)
+        page.goto(full_url)
+        text_blocks=None
+
+        # 提取页面标题和文本
+        # title = page.query_selector("h1")  # 假设标题总是在 h1 标签中
+        # content = page.query_selector("article")  # 假设主要内容在 article 标签中
+        try:
+            selector='#mw-content-text > div.mw-content-ltr.mw-parser-output'
+            text_blocks = extract_text(page, selector)#, ul[class=]
+            print("text_blocks:",text_blocks)
+
+            # element=page.locator("section[data-component='text-block']")
+            # text_blocks = element.inner_text()
+            error=False
+
+
+        except Exception as e:  
+            print(e)
+            print("can not find text_blocks")
             error=True
-            text=None
-            url=None
-            try:
-                url = link.get_attribute("href")
-                text = link.inner_text()
-                error=False
-            except Exception as e:
-                print(e)
-                print("can not find url or text")
 
 
-            # 将数据添加到列表中
-            # data.append({
-            #     "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            #     "error": error,
-            #     "url": f"https://en.wikipedia.org{url}",
-            #     "text": text
-            # })
-            entry={"date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                "error": error,
-                "url": f"https://en.wikipedia.org{url}",
-                "text": text
-            }
-            with open("wikipedia_new_pages.jsonl", "a", encoding="utf-8") as file:
-                json.dump(entry, file, ensure_ascii=False)
-                file.write("\n")
+        entry = {"date": datetime.datetime.now().strftime("%Y-%m-%d-%H-%M"), "error": error, "url": full_url,'text_blocks':text_blocks}
+        with open(config['save_path'], "a", encoding="utf-8") as file:
+            # for entry in data:
+            json.dump(entry, file, ensure_ascii=False)
+            file.write("\n")
 
-        context.close()
-        browser.close()
+        print("\n----------\n")
 
-        return data
+    # 关闭浏览器
+    context.close()
+    browser.close()
 
-new_pages_data = scrape_wikipedia_new_pages()
-print("Data saved to 'wikipedia_new_pages.jsonl'")
+
+
+def wr_wiki(config=None):
+    if config is None:
+        config={}
+        config['max_scrolls']=7
+        config['save_path']='.data/Wiki_data.jsonl'
+    with sync_playwright() as playwright:
+        run(playwright,config)
+
