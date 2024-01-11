@@ -5,7 +5,11 @@ from playwright.sync_api import sync_playwright
 # -------------------------------------------------------------
 def connect_chrome(playwright):
     # playwright = sync_playwright()
-    browser = playwright.chromium.launch(headless=False,executable_path='C:\Program Files\Google\Chrome\Application\chrome.exe')
+    # browser = playwright.chromium.launch(headless=False,executable_path='C:\Program Files\Google\Chrome\Application\chrome.exe')
+    # browser = playwright.chromium.launch(headless=False)
+    # browser = playwright.chromium.launch(headless=True)
+    browser = playwright.chromium.launch(headless=config['headless'])
+
     # browser = playwright.chromium.launch(headless=False, args=['--incognito', '--no-sandbox', '--disable-dev-shm-usage'])
     context = browser.new_context()
     # 设置不加载图片

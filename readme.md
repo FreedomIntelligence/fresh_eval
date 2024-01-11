@@ -13,6 +13,10 @@ pip install playwright
 playwright install
 
 
+cd /mntnfs/med_data5/chenghao/uncheatable_eval/
+python /mntnfs/med_data5/chenghao/uncheatable_eval/cmd_crawl.py
+
+
 conda export > playright.env
 conda create -f playright.env
 

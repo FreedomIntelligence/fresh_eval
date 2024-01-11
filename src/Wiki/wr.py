@@ -22,7 +22,10 @@ def random_scroll(page, max_scrolls=None):
         page.wait_for_timeout(int(random_wait * 1000))
 
 def run(playwright,config):
-    browser = playwright.chromium.launch(headless=False)
+    # browser = playwright.chromium.launch(headless=False)
+    browser = playwright.chromium.launch(headless=config['headless'])
+
+    
     context = browser.new_context()
     
     # 打开 BBC 新闻主页

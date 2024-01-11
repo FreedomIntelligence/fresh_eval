@@ -3,7 +3,11 @@ from playwright.sync_api import sync_playwright
 def test_google_search():
     # 启动 Playwright 并创建一个浏览器实例
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)  # 设置 headless=False 以在有头模式下运行
+        # browser = p.chromium.launch(headless=False)  # 设置 headless=False 以在有头模式下运行
+        # browser = playwright.chromium.launch(headless=True)
+        browser = playwright.chromium.launch(headless=config['headless'])
+
+        
         page = browser.new_page()
 
         # 打开 Google 主页
