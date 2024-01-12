@@ -2,7 +2,7 @@ from src.BBC.wr import wr_bbc as wr_bbc
 from src.Wiki.wr import wr_wiki as wr_wiki
 from src.wattpad.rq import rq_wattpad as rq_wattpad
 from src.arxiv.rq import rq_arxiv as rq_arxiv 
-from src.arxiv.rq_year import rq_arxiv as rq_arxiv_year
+from src.arxiv.rq_year import rq_arxiv as rq_arxiv_year# this is used to crawl a special year's arxiv
 
 from src.Yahoo.wr import wr_Yahoo as wr_Yahoo
 from src.reddit.praw import praw_reddit as praw_reddit
@@ -37,9 +37,9 @@ for crawler in crawl_list:
     
 
 
-    # try:
-    #     crawler(config)
-    #     logger.info(f"crawler {crawler.__name__} done, time_used:{round(time.time()-st_time,2)}")
+    try:
+        crawler(config)
+        logging.info(f"crawler {crawler.__name__} done, time_used:{round(time.time()-st_time,2)}")
     #     #read file and get how many lines
     #     with open (config['save_path'],'r') as f:
     #         lines=f.readlines()
@@ -61,31 +61,5 @@ for crawler in crawl_list:
     #                 logger.error(f'num_10:{num_10} is less than 50, please check crawler {crawler.__name__}')
 
 
-    # except Exception as e:
-    #     logger.error(f"crawler {crawler.__name__} failed, time_used:{round(time.time()-st_time,2)}, error:{e}")
-    # try:
-    crawler(config)
-    logging.info(f"crawler {crawler.__name__} done, time_used:{round(time.time()-st_time,2)}")
-
-
-
-    #read file and get how many lines
-    # with open (config['save_path'],'r',encoding='utf-8') as f:
-    #     lines=f.readlines()
-    #     logging.info(f"crawler {crawler.__name__} done, total lines:{len(lines)}")
-        
-    #     for line in lines:
-    #         data = json.loads(line.strip())
-            
-    #         # 检查text_blocks是否存在并且长度是否超过300
-    #         num_10,num_300,num_5000=0,0,0
-    #         if 'text_blocks' in data and len(data['text_blocks']) > 10:
-    #             num_10+=1
-    #             if len(data['text_blocks']) > 300:
-    #                 num_300+=1
-    #             if len(data['text_blocks']) > 5000:
-    #                 num_5000+=1
-    #         logging.info(f'num_10:{num_10},num_300:{num_300},num_5000:{num_5000}')
-    #     if num_10<50:
-    #         logging.error(f'num_10:{num_10} is less than 50, please check crawler {crawler.__name__}')
-
+    except Exception as e:
+        logging.error(f"crawler {crawler.__name__} failed, time_used:{round(time.time()-st_time,2)}, error:{e}")

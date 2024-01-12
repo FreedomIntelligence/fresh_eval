@@ -10,3 +10,14 @@ root - INFO - start up
 root - INFO - crawler rq_github done, time_used:61.57
 root - INFO - start up
 root - INFO - crawler rq_github done, time_used:8.17
+root - INFO - start up
+root - INFO - crawler rq_github done, time_used:17.26
+root - INFO - start up
+root - INFO - crawler rq_github done, time_used:8.54
+root - ERROR - crawler wr_wiki failed, time_used:1.37, error:net::ERR_CERT_COMMON_NAME_INVALID at https://en.wikipedia.org/wiki/Special:NewPagesFeed
+root - ERROR - crawler wr_quora failed, time_used:0.84, error:net::ERR_ADDRESS_UNREACHABLE at https://www.quora.com/
+root - ERROR - crawler rq_arxiv failed, time_used:1033.64, error:HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=None)
+root - ERROR - crawler praw_reddit failed, time_used:0.0, error:No module named 'praw'
+root - ERROR - crawler wr_bbc failed, time_used:31.05, error:Timeout 30000ms exceeded.
+root - ERROR - crawler rq_wattpad failed, time_used:0.33, error:('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+root - INFO - crawler wr_Yahoo done, time_used:8.14
