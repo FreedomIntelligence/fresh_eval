@@ -1,7 +1,8 @@
+# still under construction, tring to adopt it online
+this repo uses playwright and request to crawl the latest data from the Internet
 
-# still under construction
-env, this repo uses playwright and request to crawl the latest data from the Internet
 
+### env
 ```bash
 set PIP_INDEX_URL=https://pypi.douban.com/simple
 export PIP_INDEX_URL=https://pypi.douban.com/simple
@@ -10,19 +11,19 @@ playwright install
 ```
 
 
-how to use:
+### how to use:
 ```bash
 cd your_path/uncheatable_eval/
 python cmd_crawl.py
 ```
 
-what you will get:
+### what you will get:
 under uncheatable_eval/data/YYYY-MM-DD there will be some jsonl data
 each line is like {"date": "2024-01-11-22-30", "error": false, "url": "https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission", "text_blocks": "pass"}
 
 
 
-how to config:
+### how to config:
 ```
 in cmd_crawl.py there are a list 
 
