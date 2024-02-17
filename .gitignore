@@ -3,3 +3,4 @@ data/rq_arxiv_pdfs_0103/
 data/*/rq_arxiv_pdfs/
 data/
 *.pyc
+tmp.py
