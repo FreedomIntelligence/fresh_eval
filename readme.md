@@ -6,9 +6,15 @@ this repo uses playwright and request to crawl the latest data from the Internet
 ```bash
 set PIP_INDEX_URL=https://pypi.douban.com/simple
 export PIP_INDEX_URL=https://pypi.douban.com/simple
+$env:PIP_INDEX_URL="https://pypi.douban.com/simple"
+pip install urllib3==1.25.11
+
+maybe you need to refresh the page when crawling Yahoo
+["ValueError: check_hostname requires server_hostname" when trying to update conda · Issue #10590 · conda/conda](https://github.com/conda/conda/issues/10590)
+
 pip install playwright
 playwright install
-```
+``` 
 
 
 ### how to use:

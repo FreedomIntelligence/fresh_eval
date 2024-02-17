@@ -35,7 +35,7 @@ def run(playwright,config):
     
     # 打开 BBC 新闻主页
     page = context.new_page()
-    page.goto("https://www.bbc.com/news")
+    page.goto("https://www.bbc.com/news",timeout=60000)
 
     # 获取所有新闻链接
     news_links = page.query_selector_all("a[data-testid='internal-link']")

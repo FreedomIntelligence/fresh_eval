@@ -26,9 +26,9 @@ def extract_text(page, selector):
     return "\n".join([element.inner_text() for element in elements if element.inner_text().strip()])
 
 def run(playwright):
-    # browser = playwright.chromium.launch(headless=False,executable_path='C:\Program Files\Google\Chrome\Application\chrome.exe')
+    browser = playwright.chromium.launch(headless=False,executable_path='C:\Program Files\Google\Chrome\Application\chrome.exe')
     # browser = playwright.chromium.launch(headless=False)
-    browser = playwright.chromium.launch(headless=config['headless'])
+    # browser = playwright.chromium.launch(headless=config['headless'])
 
     context = browser.new_context()
     

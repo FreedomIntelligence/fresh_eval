@@ -44,7 +44,7 @@ def run(playwright,config):
     
     # 打开 BBC 新闻主页
     page = context.new_page()
-    page.goto("https://finance.yahoo.com/")
+    page.goto("https://finance.yahoo.com/",timeout=120000)
 
     random_scroll(page,3)#TODO
 
