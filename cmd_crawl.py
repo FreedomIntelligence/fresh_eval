@@ -26,7 +26,7 @@ doday=datetime.datetime.now().strftime("%Y-%m-%d")
 os.makedirs(f"./data/{doday}", exist_ok=True)
 
 crawl_list=[rq_github,wr_wiki,wr_quora,rq_arxiv,praw_reddit,wr_bbc,rq_wattpad,wr_Yahoo,]#,
-# crawl_list=[rq_arxiv_year]
+crawl_list=[rq_arxiv_year]
 for crawler in crawl_list:
     config={}
     st_time=time.time()

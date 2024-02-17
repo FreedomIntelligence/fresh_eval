@@ -162,6 +162,8 @@ eess'''
             # url = f'https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=&terms-0-field=title{TYPE}&classification-include_cross_list=exclude&date-year=&date-filter_by=date_range&date-from_date={BEGIN_DATE}&date-to_date={END_DATE}&date-date_type=submitted_date_first&abstracts=hide&size={PAGE_SIZE}&order=-announced_date_first&start={START}'
             url = f'https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=&terms-0-field=title{TYPE}&classification-include_cross_list=include&date-filter_by=specific_year&date-year={specific_year}&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size={PAGE_SIZE}&order=-announced_date_first&start={START}'
             print(f'url:{url}')
+            # url = f'https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=&terms-0-field=title&classification-computer_science=y&classification-include_cross_list=include&date-filter_by=specific_year&date-year=2023&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first&start=0'
+
 
             response = requests.get(url)
             soup = BeautifulSoup(response.content, 'html.parser')
