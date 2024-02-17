@@ -9,13 +9,14 @@ from src.reddit.praw import praw_reddit as praw_reddit
 from src.quora.wr import wr_quora as wr_quora
 from src.github.rq import rq_github as rq_github
 
+from src.checkFile.check_crawl import check_crawl
 
 import os
 import datetime
 import logging
 import time
 import json
-logging.basicConfig(level=logging.INFO,filename='./app.log', filemode='a', format='%(name)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.INFO,filename='./app.log', filemode='a', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logging.info("start up")
 
 
@@ -25,7 +26,9 @@ doday=datetime.datetime.now().strftime("%Y-%m-%d")
 # os.mkdir(f"/data/{doday}",exist_ok=True)
 os.makedirs(f"./data/{doday}", exist_ok=True)
 
-crawl_list=[rq_github,wr_wiki,wr_quora,rq_arxiv,praw_reddit,wr_bbc,rq_wattpad,wr_Yahoo,]#,
+# crawl_list=[rq_github,wr_wiki,wr_quora,rq_arxiv,praw_reddit,wr_bbc,rq_wattpad,wr_Yahoo,]#,
+crawl_list=[praw_reddit,rq_wattpad,]#,rq_github,wr_wiki,wr_quorawr_Yahoo#wr_bbc
+# crawl_list=[wr_Yahoo]
 # crawl_list=[rq_arxiv_year]
 for crawler in crawl_list:
     config={}
@@ -33,7 +36,8 @@ for crawler in crawl_list:
     config['save_path']=f"./data/{doday}/{crawler.__name__}.jsonl"
     config['save_folder_pdf_arxiv']=f"./data/{doday}/{crawler.__name__}_pdfs"
     config["topic_quora"]=['Technology','Mathematics','Health','Movies']
-    config['headless']=True
+    # config['headless']=True
+    config['headless']=False
     
 
 
@@ -62,4 +66,5 @@ for crawler in crawl_list:
 
 
     except Exception as e:
-        logging.error(f"crawler {crawler.__name__} failed, time_used:{round(time.time()-st_time,2)}, error:{e}")
+        import traceback
+        logging.error(f"crawler {crawler.__name__} failed, time_used:{round(time.time()-st_time,2)}, error:{e},trackback:{traceback.format_exc()}")

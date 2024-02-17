@@ -41,10 +41,10 @@ def extract_text(page, selector):
 def download(problem_num, url, title, solution_slug,playwright):
     print(f"Fetching problem num {problem_num} with url {url}")
     n = len(title)
-    # browser = playwright.chromium.launch(headless=False,executable_path='C:\Program Files\Google\Chrome\Application\chrome.exe')
+    browser = playwright.chromium.launch(headless=False,executable_path='C:\Program Files\Google\Chrome\Application\chrome.exe')
     # browser = playwright.chromium.launch(headless=False)
     # browser = playwright.chromium.launch(headless=True)
-    browser = playwright.chromium.launch(headless=config['headless'])
+    # browser = playwright.chromium.launch(headless=config['headless'])
 
     context = browser.new_context()
     # context.set_extra_http_headers({

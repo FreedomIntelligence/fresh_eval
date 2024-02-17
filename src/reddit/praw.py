@@ -15,7 +15,7 @@ def praw_reddit(config=None):
     reddit = praw.Reddit(
         client_id="deImkPevl0FGZWg9UiY7Vw",
         client_secret="OjVaUP0TdBWUHEZmmDd9GWSzNH_1fA",
-        user_agent="RedditCrawler by u/ShadoWJackson"
+        user_agent="RedditCrawler by u/ShadoWJackson",
     )
 
     subreddit = reddit.subreddit("all")

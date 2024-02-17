@@ -21,3 +21,280 @@ root - ERROR - crawler praw_reddit failed, time_used:0.0, error:No module named 
 root - ERROR - crawler wr_bbc failed, time_used:31.05, error:Timeout 30000ms exceeded.
 root - ERROR - crawler rq_wattpad failed, time_used:0.33, error:('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 root - INFO - crawler wr_Yahoo done, time_used:8.14
+root - INFO - start up
+root - INFO - crawler rq_github done, time_used:18.37
+root - ERROR - crawler wr_wiki failed, time_used:52.18, error:net::ERR_CONNECTION_TIMED_OUT at https://en.wikipedia.org/wiki/Special:NewPagesFeed
+root - ERROR - crawler wr_quora failed, time_used:35.59, error:net::ERR_CONNECTION_TIMED_OUT at https://www.quora.com/
+root - INFO - crawler rq_arxiv done, time_used:151.46
+root - ERROR - crawler praw_reddit failed, time_used:0.0, error:No module named 'praw'
+root - ERROR - crawler wr_bbc failed, time_used:25.29, error:net::ERR_CONNECTION_TIMED_OUT at https://www.bbc.com/news
+root - ERROR - crawler rq_wattpad failed, time_used:42.14, error:HTTPSConnectionPool(host='www.wattpad.com', port=443): Max retries exceeded with url: /stories/new/new (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000225FDA39610>: Failed to establish a new connection: [WinError 10060] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó·ï¿½ï¿½ï¿½Ò»ï¿½ï¿½Ê±ï¿½ï¿½ï¿½Ã»ï¿½ï¿½ï¿½ï¿½È·ï¿½ð¸´»ï¿½ï¿½ï¿½ï¿½Óµï¿½ï¿½ï¿½ï¿½ï¿½Ã»ï¿½Ð·ï¿½Ó¦ï¿½ï¿½ï¿½ï¿½ï¿½Ó³ï¿½ï¿½ï¿½Ê§ï¿½Ü¡ï¿½'))
+root - INFO - crawler wr_Yahoo done, time_used:8.95
+root - INFO - start up
+root - ERROR - crawler rq_github failed, time_used:0.02, error:check_hostname requires server_hostname
+root - INFO - crawler wr_wiki done, time_used:139.99
+root - INFO - crawler wr_quora done, time_used:408.16
+root - ERROR - crawler praw_reddit failed, time_used:3.47, error:check_hostname requires server_hostname
+root - ERROR - crawler wr_bbc failed, time_used:33.22, error:Timeout 30000ms exceeded.
+root - ERROR - crawler rq_wattpad failed, time_used:0.01, error:check_hostname requires server_hostname
+root - ERROR - crawler wr_Yahoo failed, time_used:56.03, error:Timeout 30000ms exceeded.
+root - INFO - start up
+root - ERROR - crawler praw_reddit failed, time_used:0.24, error:check_hostname requires server_hostname
+root - ERROR - crawler wr_bbc failed, time_used:8.88, error:Timeout 6000ms exceeded.
+root - ERROR - crawler rq_wattpad failed, time_used:0.02, error:check_hostname requires server_hostname
+root - ERROR - crawler wr_Yahoo failed, time_used:11.4, error:Timeout 6000ms exceeded.
+root - INFO - start up
+root - ERROR - crawler praw_reddit failed, time_used:0.18, error:check_hostname requires server_hostname
+root - ERROR - crawler wr_bbc failed, time_used:241.33, error:Timeout 30000ms exceeded.
+root - ERROR - crawler rq_wattpad failed, time_used:0.02, error:check_hostname requires server_hostname
+root - ERROR - crawler wr_Yahoo failed, time_used:33.3, error:net::ERR_TIMED_OUT at https://finance.yahoo.com/
+root - INFO - start up
+root - ERROR - crawler wr_Yahoo failed, time_used:344.5, error:Timeout 30000ms exceeded.
+root - INFO - start up
+root - ERROR - crawler praw_reddit failed, time_used:0.18, error:check_hostname requires server_hostname,trackback:None
+asyncio - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+root - INFO - start up
+root - ERROR - crawler praw_reddit failed, time_used:0.19, error:check_hostname requires server_hostname,trackback:None
+root - ERROR - crawler rq_wattpad failed, time_used:0.03, error:check_hostname requires server_hostname,trackback:None
+    root - INFO - start up
+    root - ERROR - crawler praw_reddit failed, time_used:0.22, error:check_hostname requires server_hostname,trackback:Traceback (most recent call last):
+    File ".\cmd_crawl.py", line 44, in <module>
+        crawler(config)
+    File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\reddit\praw.py", line 15, in praw_reddit
+        reddit = praw.Reddit(
+    File "F:\anaconda\lib\site-packages\praw\util\deprecate_args.py", line 43, in wrapped
+        return func(**dict(zip(_old_args, args)), **kwargs)
+    File "F:\anaconda\lib\site-packages\praw\reddit.py", line 268, in __init__
+        self._check_for_update()
+    File "F:\anaconda\lib\site-packages\praw\reddit.py", line 470, in _check_for_update
+        update_check(__package__, __version__)
+    File "F:\anaconda\lib\site-packages\update_checker.py", line 184, in update_check
+        result = checker.check(package_name, package_version)
+    File "F:\anaconda\lib\site-packages\update_checker.py", line 62, in wrapped
+        retval = function(obj, package_name, package_version, **extra_data)
+    File "F:\anaconda\lib\site-packages\update_checker.py", line 139, in check
+        data = query_pypi(
+    File "F:\anaconda\lib\site-packages\update_checker.py", line 74, in query_pypi
+        response = requests.get(f"https://pypi.org/pypi/{package}/json", timeout=1)
+    File "F:\anaconda\lib\site-packages\requests\api.py", line 75, in get
+        return request('get', url, params=params, **kwargs)
+    File "F:\anaconda\lib\site-packages\requests\api.py", line 61, in request
+        return session.request(method=method, url=url, **kwargs)
+    File "F:\anaconda\lib\site-packages\requests\sessions.py", line 529, in request
+        resp = self.send(prep, **send_kwargs)
+    File "F:\anaconda\lib\site-packages\requests\sessions.py", line 645, in send
+        r = adapter.send(request, **kwargs)
+    File "F:\anaconda\lib\site-packages\requests\adapters.py", line 440, in send
+        resp = conn.urlopen(
+    File "F:\anaconda\lib\site-packages\urllib3\connectionpool.py", line 696, in urlopen
+        self._prepare_proxy(conn)
+    File "F:\anaconda\lib\site-packages\urllib3\connectionpool.py", line 964, in _prepare_proxy
+        conn.connect()
+    File "F:\anaconda\lib\site-packages\urllib3\connection.py", line 359, in connect
+        conn = self._connect_tls_proxy(hostname, conn)
+    File "F:\anaconda\lib\site-packages\urllib3\connection.py", line 500, in _connect_tls_proxy
+        return ssl_wrap_socket(
+    File "F:\anaconda\lib\site-packages\urllib3\util\ssl_.py", line 432, in ssl_wrap_socket
+        ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls)
+    File "F:\anaconda\lib\site-packages\urllib3\util\ssl_.py", line 474, in _ssl_wrap_socket_impl
+        return ssl_context.wrap_socket(sock)
+    File "F:\anaconda\lib\ssl.py", line 500, in wrap_socket
+        return self.sslsocket_class._create(
+    File "F:\anaconda\lib\ssl.py", line 997, in _create
+        raise ValueError("check_hostname requires server_hostname")
+    ValueError: check_hostname requires server_hostname
+
+    root - ERROR - crawler rq_wattpad failed, time_used:0.05, error:check_hostname requires server_hostname,trackback:Traceback (most recent call last):
+    File ".\cmd_crawl.py", line 44, in <module>
+        crawler(config)
+    File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\wattpad\rq.py", line 138, in rq_wattpad
+        story_urls=get_new_story_urls()
+    File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\wattpad\rq.py", line 120, in get_new_story_urls
+        response = requests.get(url,headers={'User-Agent': 'Mozilla/5.0'})
+    File "F:\anaconda\lib\site-packages\requests\api.py", line 75, in get
+        return request('get', url, params=params, **kwargs)
+    File "F:\anaconda\lib\site-packages\requests\api.py", line 61, in request
+        return session.request(method=method, url=url, **kwargs)
+    File "F:\anaconda\lib\site-packages\requests\sessions.py", line 529, in request
+        resp = self.send(prep, **send_kwargs)
+    File "F:\anaconda\lib\site-packages\requests\sessions.py", line 645, in send
+        r = adapter.send(request, **kwargs)
+    File "F:\anaconda\lib\site-packages\requests\adapters.py", line 440, in send
+        resp = conn.urlopen(
+    File "F:\anaconda\lib\site-packages\urllib3\connectionpool.py", line 696, in urlopen
+        self._prepare_proxy(conn)
+    File "F:\anaconda\lib\site-packages\urllib3\connectionpool.py", line 964, in _prepare_proxy
+        conn.connect()
+    File "F:\anaconda\lib\site-packages\urllib3\connection.py", line 359, in connect
+        conn = self._connect_tls_proxy(hostname, conn)
+    File "F:\anaconda\lib\site-packages\urllib3\connection.py", line 500, in _connect_tls_proxy
+        return ssl_wrap_socket(
+    File "F:\anaconda\lib\site-packages\urllib3\util\ssl_.py", line 432, in ssl_wrap_socket
+        ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls)
+    File "F:\anaconda\lib\site-packages\urllib3\util\ssl_.py", line 474, in _ssl_wrap_socket_impl
+        return ssl_context.wrap_socket(sock)
+    File "F:\anaconda\lib\ssl.py", line 500, in wrap_socket
+        return self.sslsocket_class._create(
+    File "F:\anaconda\lib\ssl.py", line 997, in _create
+        raise ValueError("check_hostname requires server_hostname")
+    ValueError: check_hostname requires server_hostname
+
+2024-02-14 23:21:20,462 - root - INFO - start up
+2024-02-14 23:21:20,637 - root - ERROR - crawler praw_reddit failed, time_used:0.17, error:check_hostname requires server_hostname,trackback:Traceback (most recent call last):
+  File ".\cmd_crawl.py", line 44, in <module>
+    crawler(config)
+  File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\reddit\praw.py", line 15, in praw_reddit
+    reddit = praw.Reddit(
+  File "F:\anaconda\lib\site-packages\praw\util\deprecate_args.py", line 43, in wrapped
+    return func(**dict(zip(_old_args, args)), **kwargs)
+  File "F:\anaconda\lib\site-packages\praw\reddit.py", line 268, in __init__
+    self._check_for_update()
+  File "F:\anaconda\lib\site-packages\praw\reddit.py", line 470, in _check_for_update
+    update_check(__package__, __version__)
+  File "F:\anaconda\lib\site-packages\update_checker.py", line 184, in update_check
+    result = checker.check(package_name, package_version)
+  File "F:\anaconda\lib\site-packages\update_checker.py", line 62, in wrapped
+    retval = function(obj, package_name, package_version, **extra_data)
+  File "F:\anaconda\lib\site-packages\update_checker.py", line 139, in check
+    data = query_pypi(
+  File "F:\anaconda\lib\site-packages\update_checker.py", line 74, in query_pypi
+    response = requests.get(f"https://pypi.org/pypi/{package}/json", timeout=1)
+  File "F:\anaconda\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "F:\anaconda\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "F:\anaconda\lib\site-packages\requests\sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "F:\anaconda\lib\site-packages\requests\sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "F:\anaconda\lib\site-packages\requests\adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "F:\anaconda\lib\site-packages\urllib3\connectionpool.py", line 696, in urlopen
+    self._prepare_proxy(conn)
+  File "F:\anaconda\lib\site-packages\urllib3\connectionpool.py", line 964, in _prepare_proxy
+    conn.connect()
+  File "F:\anaconda\lib\site-packages\urllib3\connection.py", line 359, in connect
+    conn = self._connect_tls_proxy(hostname, conn)
+  File "F:\anaconda\lib\site-packages\urllib3\connection.py", line 500, in _connect_tls_proxy
+    return ssl_wrap_socket(
+  File "F:\anaconda\lib\site-packages\urllib3\util\ssl_.py", line 432, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls)
+  File "F:\anaconda\lib\site-packages\urllib3\util\ssl_.py", line 474, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock)
+  File "F:\anaconda\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "F:\anaconda\lib\ssl.py", line 997, in _create
+    raise ValueError("check_hostname requires server_hostname")
+ValueError: check_hostname requires server_hostname
+
+2024-02-14 23:21:20,658 - root - ERROR - crawler rq_wattpad failed, time_used:0.02, error:check_hostname requires server_hostname,trackback:Traceback (most recent call last):
+  File ".\cmd_crawl.py", line 44, in <module>
+    crawler(config)
+  File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\wattpad\rq.py", line 138, in rq_wattpad
+    story_urls=get_new_story_urls()
+  File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\wattpad\rq.py", line 120, in get_new_story_urls
+    response = requests.get(url,headers={'User-Agent': 'Mozilla/5.0'})
+  File "F:\anaconda\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "F:\anaconda\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "F:\anaconda\lib\site-packages\requests\sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "F:\anaconda\lib\site-packages\requests\sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "F:\anaconda\lib\site-packages\requests\adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "F:\anaconda\lib\site-packages\urllib3\connectionpool.py", line 696, in urlopen
+    self._prepare_proxy(conn)
+  File "F:\anaconda\lib\site-packages\urllib3\connectionpool.py", line 964, in _prepare_proxy
+    conn.connect()
+  File "F:\anaconda\lib\site-packages\urllib3\connection.py", line 359, in connect
+    conn = self._connect_tls_proxy(hostname, conn)
+  File "F:\anaconda\lib\site-packages\urllib3\connection.py", line 500, in _connect_tls_proxy
+    return ssl_wrap_socket(
+  File "F:\anaconda\lib\site-packages\urllib3\util\ssl_.py", line 432, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls)
+  File "F:\anaconda\lib\site-packages\urllib3\util\ssl_.py", line 474, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock)
+  File "F:\anaconda\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "F:\anaconda\lib\ssl.py", line 997, in _create
+    raise ValueError("check_hostname requires server_hostname")
+ValueError: check_hostname requires server_hostname
+
+2024-02-14 23:22:52,566 - root - INFO - start up
+2024-02-14 23:22:54,289 - prawcore - WARNING - Retrying due to ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(10054, 'Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓÐµÄÁ¬½Ó¡£', None, 10054, None))) status: GET https://oauth.reddit.com/r/all/new
+2024-02-14 23:22:56,172 - prawcore - WARNING - Retrying due to ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(10054, 'Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓÐµÄÁ¬½Ó¡£', None, 10054, None))) status: GET https://oauth.reddit.com/r/all/new
+2024-02-14 23:22:59,569 - root - ERROR - crawler praw_reddit failed, time_used:6.88, error:error with request ('Connection aborted.', ConnectionResetError(10054, 'Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓÐµÄÁ¬½Ó¡£', None, 10054, None)),trackback:Traceback (most recent call last):
+  File ".\cmd_crawl.py", line 44, in <module>
+    crawler(config)
+  File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\reddit\praw.py", line 28, in praw_reddit
+    for post in posts:
+  File "F:\anaconda\lib\site-packages\praw\models\listing\generator.py", line 63, in __next__
+    self._next_batch()
+  File "F:\anaconda\lib\site-packages\praw\models\listing\generator.py", line 89, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "F:\anaconda\lib\site-packages\praw\util\deprecate_args.py", line 43, in wrapped
+    return func(**dict(zip(_old_args, args)), **kwargs)
+  File "F:\anaconda\lib\site-packages\praw\reddit.py", line 712, in get
+    return self._objectify_request(method="GET", params=params, path=path)
+  File "F:\anaconda\lib\site-packages\praw\reddit.py", line 517, in _objectify_request
+    self.request(
+  File "F:\anaconda\lib\site-packages\praw\util\deprecate_args.py", line 43, in wrapped
+    return func(**dict(zip(_old_args, args)), **kwargs)
+  File "F:\anaconda\lib\site-packages\praw\reddit.py", line 941, in request
+    return self._core.request(
+  File "F:\anaconda\lib\site-packages\prawcore\sessions.py", line 328, in request
+    return self._request_with_retries(
+  File "F:\anaconda\lib\site-packages\prawcore\sessions.py", line 254, in _request_with_retries
+    return self._do_retry(
+  File "F:\anaconda\lib\site-packages\prawcore\sessions.py", line 162, in _do_retry
+    return self._request_with_retries(
+  File "F:\anaconda\lib\site-packages\prawcore\sessions.py", line 254, in _request_with_retries
+    return self._do_retry(
+  File "F:\anaconda\lib\site-packages\prawcore\sessions.py", line 162, in _do_retry
+    return self._request_with_retries(
+  File "F:\anaconda\lib\site-packages\prawcore\sessions.py", line 234, in _request_with_retries
+    response, saved_exception = self._make_request(
+  File "F:\anaconda\lib\site-packages\prawcore\sessions.py", line 186, in _make_request
+    response = self._rate_limiter.call(
+  File "F:\anaconda\lib\site-packages\prawcore\rate_limit.py", line 46, in call
+    kwargs["headers"] = set_header_callback()
+  File "F:\anaconda\lib\site-packages\prawcore\sessions.py", line 282, in _set_header_callback
+    self._authorizer.refresh()
+  File "F:\anaconda\lib\site-packages\prawcore\auth.py", line 378, in refresh
+    self._request_token(grant_type="client_credentials", **additional_kwargs)
+  File "F:\anaconda\lib\site-packages\prawcore\auth.py", line 155, in _request_token
+    response = self._authenticator._post(url=url, **data)
+  File "F:\anaconda\lib\site-packages\prawcore\auth.py", line 51, in _post
+    response = self._requestor.request(
+  File "F:\anaconda\lib\site-packages\prawcore\requestor.py", line 70, in request
+    raise RequestException(exc, args, kwargs) from None
+prawcore.exceptions.RequestException: error with request ('Connection aborted.', ConnectionResetError(10054, 'Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓÐµÄÁ¬½Ó¡£', None, 10054, None))
+
+2024-02-14 23:23:53,687 - root - INFO - start up
+2024-02-14 23:24:05,028 - prawcore - WARNING - Retrying due to 500 status: GET https://oauth.reddit.com/r/all/new
+2024-02-14 23:24:07,689 - prawcore - WARNING - Retrying due to 500 status: GET https://oauth.reddit.com/r/all/new
+2024-02-14 23:24:24,139 - root - INFO - crawler praw_reddit done, time_used:30.45
+2024-02-14 23:24:30,293 - root - ERROR - crawler rq_wattpad failed, time_used:6.15, error:request() got an unexpected keyword argument 'server_hostname',trackback:Traceback (most recent call last):
+  File ".\cmd_crawl.py", line 44, in <module>
+    crawler(config)
+  File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\wattpad\rq.py", line 142, in rq_wattpad
+    entry=main(urls)
+  File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\wattpad\rq.py", line 109, in main
+    entry=save_html_file(html_file_name, story_name, author, cover, tags, summary, chapters)
+  File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\wattpad\rq.py", line 58, in save_html_file
+    chapter_content = download_webpage(chapter_url)
+  File "C:\Users\ZTZ\Desktop\Fresh\fresh_eval\src\wattpad\rq.py", line 32, in download_webpage
+    res = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, server_hostname=url)
+  File "F:\anaconda\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "F:\anaconda\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+TypeError: request() got an unexpected keyword argument 'server_hostname'
+
+2024-02-14 23:25:33,028 - root - INFO - start up
+2024-02-14 23:25:54,489 - root - INFO - crawler praw_reddit done, time_used:21.46
+2024-02-14 23:27:45,067 - root - INFO - crawler rq_wattpad done, time_used:110.58

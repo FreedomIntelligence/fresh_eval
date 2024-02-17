@@ -26,10 +26,10 @@ def run(playwright,config= None):
     if config is None:
         config["topic_quora"]=['Technology','Mathematics']
         config["save_path"]='Quora_data.jsonl'
-    # browser = playwright.chromium.launch(headless=False,executable_path='C:\Program Files\Google\Chrome\Application\chrome.exe')
+    browser = playwright.chromium.launch(headless=False,executable_path='C:\Program Files\Google\Chrome\Application\chrome.exe')
     # browser = playwright.chromium.launch(headless=False)
     # browser = playwright.chromium.launch(headless=True)
-    browser = playwright.chromium.launch(headless=config['headless'])
+    # browser = playwright.chromium.launch(headless=config['headless'])
 
     context = browser.new_context()
     
