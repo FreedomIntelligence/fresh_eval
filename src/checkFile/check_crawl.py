@@ -80,3 +80,20 @@ if __name__ == "__main__":
     test_check_files_exist()
 
 
+# <<<<<<< HEAD
+# 检查文件存在性
+missing_files = text_checker.check_files_exist() + json_checker.check_files_exist()
+if missing_files:
+    print("以下文件缺失:", missing_files)
+else:
+    print("所有预期文件均存在。")
+
+# 检查文件内容
+# 这里需要具体实现 check_file_content 方法的逻辑
+# text_checker.check_file_content("readme.txt")
+# json_checker.check_file_content("config.json")
+
+# missing_files = [file for file in self.expected_files if not os.path.exists(os.path.join(self.directory, file))] return missing_files
+# missing_files = text_checker.check_files_exist() + json_checker.check_files_exist() if missing_files: print("以下文件缺失:", missing_files) else: print("所有预期文件均存在。")
+# =======
+# >>>>>>> refs/remotes/origin/main

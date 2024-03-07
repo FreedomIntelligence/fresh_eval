@@ -182,7 +182,7 @@ eess'''
 
         assert begin < end
 
-        extracted_texts = extract_first_n_chars_from_pdfs(config['save_folder_pdf_arxiv'], end,pdf_limit=10)
+        extracted_texts = extract_first_n_chars_from_pdfs(config['save_folder_pdf_arxiv'], end,pdf_limit=30)
 
         extracted_texts = [text.encode('utf-8', 'ignore').decode('utf-8') for text in extracted_texts]
 
