@@ -1,0 +1,3363 @@
+process have error in 
+
+The outcome will be determined using the S&P 500 - Weighted Estimated Earnings dated 29 December 2023 as reported here. The chart will be updated with data on or about the 15th of each month.For this question, please enter your forecast as three earnings per share (EPS) estimates (specific values, not probabilities). Think of the middle number as your base case, or central forecast, with the others as your bull (top) and bear (bottom) scenarios.
+You may do so either using the “Chart Input” or the “Text Input”; please see the buttons under the ribbon that starts with “Forecast”. For the Chart Input, you can drag the three dots for 2023 to the positions you consider appropriate; a brief explanation about each dot will pop up when you hover your cursor over them. For the Text Input, you can type in your three value estimates.
+Technically, your top estimate should be the number you are 90% confident the ultimate outcome value will be less than or equal to, and your bottom estimate should be the number you are 90% confident the ultimate outcome will be greater than or equal to. For example, if your base case is 200, enter that number in the middle; if you are 90% confident the outcome will be less than or equal to 300, enter that number at the top; and, finally, if you are 90% confident the outcome will be greater than or equal to 100, enter that number at the bottom.Confused? Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.To learn more about how you can become a Superforecaster, see here. For other posts from our Insights blog, click here.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+The outcome will be determined using the S&P 500 - Weighted Estimated Earnings dated 29 December 2023 as reported here. The chart will be updated with data on or about the 15th of each month.For this question, please enter your forecast as three earnings per share (EPS) estimates (specific values, not probabilities). Think of the middle number as your base case, or central forecast, with the others as your bull (top) and bear (bottom) scenarios.
+You may do so either using the “Chart Input” or the “Text Input”; please see the buttons under the ribbon that starts with “Forecast”. For the Chart Input, you can drag the three dots for 2023 to the positions you consider appropriate; a brief explanation about each dot will pop up when you hover your cursor over them. For the Text Input, you can type in your three value estimates.
+Technically, your top estimate should be the number you are 90% confident the ultimate outcome value will be less than or equal to, and your bottom estimate should be the number you are 90% confident the ultimate outcome will be greater than or equal to. For example, if your base case is 200, enter that number in the middle; if you are 90% confident the outcome will be less than or equal to 300, enter that number at the top; and, finally, if you are 90% confident the outcome will be greater than or equal to 100, enter that number at the bottom.Confused? Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.To learn more about how you can become a Superforecaster, see here. For other posts from our Insights blog, click here.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+Offtake agreements between hydrogen producers and energy consumers are seen as key for the growth of the hydrogen industry (World Economic Forum, Investopedia - Offtake Agreement). Natural gas-based hydrogen production with carbon capture and storage is referred to as blue hydrogen (Massachusetts Institute of Technology). For the purposes of this question, “industrial customer” means a recipient of blue hydrogen as part of the processing, producing, or assembling of goods, including the manufacturing, mining, agriculture, and construction industries (EPA). The point of delivery must be in the US to count, and the date of delivery would be immaterial. The signing of an agreement must be made public before 1 October 2023 to count, and an announcement of the agreement by either party would count.Confused? Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.To learn more about how you can become a Superforecaster, see here. For other posts from our Insights blog, click here.NOTE 9 February 2023: An agreement to purchase hydrogen in the form of ammonia would not count.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2021
+
+
+
+
+
+          Tags
+        
+
+
+Foreign Policy
+ 
+  
+Non-US Politics
+ 
+
+        
+
+
+
+
+In recent decades, many countries have ceased to recognize the Republic of China (ROC), commonly known as Taiwan, in favor of recognition of the People's Republic of China (PRC). A handful of countries continue to recognize the ROC, including Nicaragua (Taiwan Ministry of Foreign Affairs, Springer Link, Taipei Times, AP). An announcement by Nicaragua would count (e.g., NY Times, CNN).The question closed "No" with a closing date of 7 November 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.Versión en Español:
+
+Pregunta: ¿Nicaragua reconocerá diplomáticamente a la República Popular China antes del 7 de noviembre de 2021?
+Información adicional: En las últimas décadas, muchos países han dejado de reconocer a la República de China, comúnmente conocida como Taiwán, en favor del reconocimiento de la República Popular de China. Un puñado de países continúan reconociendo a la República de China, incluyendo Nicaragua (Ministerio de Relaciones Exteriores de Taiwán, Springer Link, Taipei Times, AP). Un anuncio de Nicaragua contaría a efectos de la resolución de esta pregunta (por ejemplo, NY Times, CNN). La versión en español de esta pregunta ha sido incluida sólo a efectos informativos, y en situaciones donde existe una diferencia de interpretación entre las versiones en inglés y español, prevalecerá la versión original en inglés.Si tiene alguna duda o pregunta, por favor lea nuestras Preguntas Frecuentes (FAQs) o envíenos un correo electrónico. Para aprender más sobre Good Judgment y Superpronósticos (Superforecasting), por favor clique aquí.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Dubai Future Experts Challenge
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Economic Indicators
+ 
+
+        
+
+
+
+
+Like other countries across the globe, the UAE has experienced record job loss due to the pandemic, but some sectors remain in high demand (Gulf News). The outcome will be determined using data provided by IndexMundi (IndexMundi). Its highest value over the past 29 years was 3.12 in 2005.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.
+The question closed "No" with a closing date of 1 January 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Dubai Future Experts Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+
+        
+
+
+
+
+The UAE recently launched the "Emirates Food Security Council" tasked with enhancing food security for the country (USDA). The outcome will be determined using data for 2020 as provided by the Global Food Security Index, expected to be released in 2021 (Food Security Index). For 2019, the UAE was tied with Japan for 21st place.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 1 January 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Finance
+ 
+  
+Economic Policy
+ 
+  
+US Politics
+ 
+
+        
+
+
+
+
+Chapter 9 filings have been rare since the mechanism was created to allow U.S. municipalities to file for bankruptcy (MuniNet Guide). There is concern that the COVID-19 pandemic might create a surge in filings (The Hill, JD Supra). The question will be suspended on 31 December 2020. The outcome will be determined using Caseload Statistics Data Tables (F-5A) provided by uscourts.gov (U.S. Courts). For 2019, there were a total of six Chapter 9 bankruptcy filings (U.S. Courts - Report F-5A 31 December 2019, see page 133 of 261 in the file).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 1 January 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Dubai Future Experts Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Society
+ 
+
+        
+
+
+
+
+In January 2020, Dubai Crown Prince HH Sheikh Hamdan bin Mohammed announced, "The average Customer Happiness level achieved was 85.2%. Our goal is to reach 100%. A government led by His Highness Sheikh Mohammed bin Rashid Al Maktoum should demonstrate exceptional service and settle for nothing less than top rankings across all indicators." (Emirates 24/7). The outcome will be determined using data for 2020, expected to be released in 2021.
+Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.
+
+
+The question closed "No" with a closing date of 1 January 2021.
+See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+ US Election 2020
+
+
+In the News 2021
+
+
+
+
+
+          Tags
+        
+
+
+US Politics
+ 
+
+        
+
+
+
+
+The next inauguration for president of the United States is scheduled for 20 January 2021 (National Archives).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "On Inauguration Day 2021" with a closing date of 20 January 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+2020 Vehicle Innovations Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Business
+ 
+  
+Technology
+ 
+
+        
+
+
+
+
+Adding to ongoing Model 3 car deliveries, Tesla began Model Y SUV deliveries ahead of schedule during the first quarter of 2020 (Reuters). Combined deliveries of Model 3 and Model Y vehicles during Q1 2020 totaled 76,266 (Tesla). The outcome will be determined using Tesla's official quarterly updates once available, typically found here https://ir.tesla.com/financial-information/quarterly-results.This question is the shorter-term companion of question #1647. The questions are substantively the same, save for the relevant time period. While they are companions, they are independent questions and the resolution of one will not necessarily impact the other.
+Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.
+
+
+The question closed "More than 400,000" with a closing date of 1 January 2021.
+See our FAQ to learn about how we resolve questions and how scores are calculated.
+ 
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+2020 Vehicle Innovations Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Business
+ 
+  
+Technology
+ 
+  
+Environment
+ 
+
+        
+
+
+
+
+Due to impacts of the COVID-19 pandemic, the auto industry in the EU is seeking relief from CO2 emission performance standards regulations (European Automobile Manufacturers Association, Europa, Electrive). For more information on EU CO2 emission performance standards, see REGULATION (EU) 2019/631, particularly Article 4 and the annexes. The date a change would take effect is immaterial to the resolution of this question.This question is the shorter-term companion of question #1620. The questions are substantively the same, save for the relevant time period. While they are companions, they are independent questions and the resolution of one will not necessarily impact the other.
+Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.
+
+
+The question closed "No" with a closing date of 1 January 2021.
+See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Dubai Future Experts Challenge
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Finance
+ 
+  
+Economic Policy
+ 
+  
+US Policy
+ 
+
+        
+
+
+
+
+In the wake of the COVID-19 pandemic, the Federal Reserve has begun unprecedented interventions in financial markets, including asset purchases (Seeking Alpha, Axios, Financial Times). The outcome will be determined using data provided by the Federal Reserve, with "Zoom" set to "1 y" (Federal Reserve). Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Less than $8 trillion" with a closing date of 30 December 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+
+
+
+          Tags
+        
+
+
+Society
+ 
+
+        
+
+
+
+
+The four officers involved in the 25 May 2020 death of George Floyd while in Minneapolis police custody are facing various state charges, and U.S. Attorney General William Barr has also announced a federal civil rights investigation into Floyd’s death (CNN, ABC News, Politico).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 1 January 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+2020 Vehicle Innovations Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Technology
+ 
+  
+US Politics
+ 
+
+        
+
+
+
+
+Congress has yet to adopt legislation to create federal safety standards for the testing and/or use of AVs (The Hill, Federation of American Scientists, Congress.gov (House Bill), Congress.gov (Senate Bill)). Legislators are renewing efforts this term, though the COVID-19 pandemic has acted as a "bump in the road" (The Hill, Legal Reader). The date the law and/or standards would take effect is immaterial.This question is the shorter-term companion of question #1659. The questions are substantively the same, save for the relevant time period. If this shorter-term question closes Yes, then the longer-term question will be voided.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 1 January 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Business
+ 
+  
+Finance
+ 
+
+        
+
+
+
+
+The usually default-resistant leveraged loan asset class hit a 6-year high default rate in May 2020, according to S&P Global Market Intelligence (S&P Global, Forbes, Bloomberg). The outcome will be determined using the U.S. leveraged loan default rates published by S&P Global Market Intelligence at https://www.spglobal.com/marketintelligence/en/campaigns/leveraged-loan. Click the tab for "Default Rate" for "Leveraged loan default rates - US (principal amount)."Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Not before January 2021" with a closing date of 1 January 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Dubai Future Experts Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Business
+ 
+  
+Technology
+ 
+  
+Environment
+ 
+
+        
+
+
+
+
+With power purchasing contracts for the fifth phase already complete, development of the world's largest solar park of its kind continues apace (Arabian Industry). The outcome will be determined using information reported by the Dubai or UAE governments and verifiable private sector announcements (Dubai Electricity & Water Authority).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 1 January 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Dubai Future Experts Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Business
+ 
+  
+Technology
+ 
+  
+Environment
+ 
+
+        
+
+
+
+
+In an attempt to diversify its energy supply, the UAE has been constructing a nuclear power plant in cooperation with the Korea Electric Power Corp. (Bloomberg, World Nuclear Association). The first of four reactors has an operating license and is undergoing testing (Power Engineering, ME Construction News). Testing alone would not count.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.NOTE 28 September 2020: For the purposes of this question, power ascension testing is considered testing and will not close the question.The question closed "No" with a closing date of 1 January 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+2020 Vehicle Innovations Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Business
+ 
+  
+Technology
+ 
+
+        
+
+
+
+
+Apple has been involved in projects with vehicles in recent years, initially focused on electric vehicles and increasingly on autonomous vehicles (MacRumors, Reuters, ZD Net, Reuters). For the purposes of this question, a "major automaker" refers to any of the 50 motor vehicle manufacturers included by the International Organization of Motor Vehicle Manufacturers in its 2017 list (OICA).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 1 January 2021.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+
+
+
+          Tags
+        
+
+
+Technology
+ 
+  
+Foreign Policy
+ 
+  
+Security and Conflict
+ 
+
+        
+
+
+
+
+Australian Prime Minister Scott Morrison said Australian organizations are victim to sustained cyberattacks, but he did not name the attacker (Sydney Morning Herald, Port Swigger). Australia's Cyber Security Center has identified the recent spate of attacks as "copy-paste compromises" (Cyber.gov.au). For the purposes of this question, "Australian government" means the incumbent prime minister or other cabinet-level ministers.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 26 December 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+
+A landslide victory by President Tsai Ing-wen in January 2020 and Taiwan's continued military build-up keep eyes focused on the region for potential conflict (Reuters, Taipei Times, Jane's, UNSI News). A lethal confrontation is one that results in one fatality for the military forces, militia, and/or law enforcement of either side.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 15 December 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+
+
+
+          Tags
+        
+
+
+Leader Entry/Exit
+ 
+
+        
+
+
+
+
+Two major figures in Brazilian President Jair Bolsonaro's cabinet left office in April, which has raised speculation that Paulo Guedes, the Minister of the Economy, may be next (Forbes, Bloomberg, Reuters, Economist).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 1 December 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+Business
+ 
+  
+Health
+ 
+
+        
+
+
+
+
+The COVID-19 outbreak has greatly impacted the aviation industry (Barron's, CNBC, CNN). The 18 carriers that were designated in Group III as of 1 January 2020 are listed here: Bureau of Transportation Statistics. Bankruptcies by holding companies that wholly own a Group III air carrier would count.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 1 December 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+Elections and Referenda
+ 
+
+        
+
+
+
+
+The 2020 race for the White House will be decided in battleground states (Real Clear Politics, Electoral Vote Map). The outcome will be determined based on which candidate wins the popular vote in the state.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Democratic Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+Elections and Referenda
+ 
+
+        
+
+
+
+
+The 2020 race for the White House will be decided in battleground states (Real Clear Politics, Electoral Vote Map). The outcome will be determined based on which candidate wins the popular vote in the state.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Democratic Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+Elections and Referenda
+ 
+
+        
+
+
+
+
+While Republicans control the U.S. Senate going into the 2020 elections, the GOP is defending 23 seats while Democrats are defending only 12 this November (270 To Win, The Hill).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Democratic Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Dubai Future Experts Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Finance
+ 
+
+        
+
+
+
+
+In August 2019, the yuan rose above the 7-per-dollar level for the first time in eleven years amidst increased China-US trade tensions (Reuters). Outcome will be determined by the end-of-day closing value reported by Bloomberg (Bloomberg).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Between CNY 6.0000 and CNY 7.0000" with a closing date of 13 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+Elections and Referenda
+ 
+
+        
+
+
+
+
+While Republicans control the U.S. Senate going into the 2020 elections, the GOP is defending 23 seats while Democrats are defending only 12 this November (270 To Win, The Hill).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Republican Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+Elections and Referenda
+ 
+
+        
+
+
+
+
+The 2020 race for the White House will be decided in battleground states (Real Clear Politics, Electoral Vote Map). The outcome will be determined based on which candidate wins the popular vote in the state.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Democratic Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+Elections and Referenda
+ 
+
+        
+
+
+
+
+The 2020 race for the White House will be decided in battleground states (Real Clear Politics, Electoral Vote Map). The outcome will be determined based on which candidate wins the popular vote in the state.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Republican Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+Finance
+ 
+  
+Economic Policy
+ 
+
+        
+
+
+
+
+The U.S. federal funds rate is the interest rate charged for overnight lending among financial institutions with accounts at the Federal Reserve and sets the base rate for borrowing costs across the financial system (Federal Reserve). The target range for the federal funds rate is set by the Federal Open Market Committee (FOMC). Its November meeting is scheduled for 4-5 November 2020.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Same" with a closing date of 5 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+Elections and Referenda
+ 
+
+        
+
+
+
+
+The 2020 race for the White House will be decided in battleground states (Real Clear Politics, Electoral Vote Map). The outcome will be determined based on which candidate wins the popular vote in the state.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Republican Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+US Politics
+ 
+  
+Elections and Referenda
+ 
+
+        
+
+
+
+
+The 2020 race for the White House will be decided in battleground states (Real Clear Politics, Electoral Vote Map). The outcome will be determined based on which candidate wins the popular vote in the state.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Republican Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+US Politics
+ 
+  
+Elections and Referenda
+ 
+
+        
+
+
+
+
+While Republicans control the U.S. Senate going into the 2020 elections, the GOP is defending 23 seats while Democrats are defending only 12 this November (270 To Win, The Hill).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Republican Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+Elections and Referenda
+ 
+
+        
+
+
+
+
+While Republicans control the U.S. Senate going into the 2020 elections, the GOP is defending 23 seats while Democrats are defending only 12 this November (270 To Win, The Hill).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Republican Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+Elections and Referenda
+ 
+
+        
+
+
+
+
+While Republicans control the U.S. Senate going into the 2020 elections, the GOP is defending 23 seats while Democrats are defending only 12 this November (270 To Win, The Hill).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Republican Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+
+
+
+          Tags
+        
+
+
+Elections and Referenda
+ 
+
+        
+
+
+
+
+While Republicans control the U.S. Senate going into the 2020 elections, the GOP is defending 23 seats while Democrats are defending only 12 this November (270 To Win, The Hill).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "The Democratic Party candidate" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+ US Election 2020
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+Society
+ 
+  
+US Politics
+ 
+  
+US Policy
+ 
+
+        
+
+
+
+
+Qualified immunity, a legal doctrine by which public officials are shielded from being sued in federal court unless they violate clearly established law, is facing greater scrutiny in the aftermath of the death of George Floyd in Minneapolis (ABA Journal, NPR, Legal Information Institute). Legislation that would curtail or eliminate qualified immunity has been recently introduced in Congress (Congress.gov, BBC). The date the law would take effect is immaterial.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 3 November 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+NBA® Season Restart
+
+
+
+
+
+          Tags
+        
+
+
+Business
+ 
+  
+Health
+ 
+  
+Sports
+ 
+
+        
+
+
+
+
+The National Basketball Association (NBA) resumed play on 30 July 2020 and is scheduled to complete the 2020 NBA Finals no later than 13 October 2020 (NBA, NBA (Return FAQ)).The question closed "Los Angeles Lakers" with a closing date of 11 October 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+
+        
+
+
+
+
+NYC entered its "Phase I" of reopening on 8 June 2020 after a week of protests in the wake of the death of George Floyd (NBC New York, Washington Post). The outcome will be determined using data provided by the NYC Department of Health's COVID-19 data page at https://www1.nyc.gov/site/doh/covid/covid-19-data.page. Under the graph for "Daily Counts," click the tab for "Hospitalizations." COVID-19 hospitalizations in NYC last reached 1,000 on 14 April 2020. Due to delays in reporting, the question would resolve as of the date for which 1,000 or more cases are reported irrespective of the date when that data for that date are updated. Resolution for this question will be entered no later than 9 October 2020.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Not before 1 October 2020" with a closing date of 1 October 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+
+        
+
+
+
+
+The outcome will be determined using data as provided by The COVID Tracking Project for June 2020 and September 2020 as of 5:00PM ET on Friday 2 October 2020 (The COVID Tracking Project). For the purposes of this question, the District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, and the U.S. Virgin Islands are considered states.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "44 or more" with a closing date of 29 September 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+
+        
+
+
+
+
+Deaths from the COVID-19 outbreak in Brazil have been among the highest in the world (The Scientist, CNBC). The outcome will be determined based on data provided by WHO as of 1 October 2020 and inclusive of deaths reported before this question's launch (WHO).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.NOTE 17 August 2020: Starting on Monday 17 August, the World Health Organization ceased to provide its daily updates via Situation reports (WHO, see first entry under "Highlights") and is directing data users to use its dashboard (COVID-19 global dashboard). The data provided on WHO's "COVID-19 global dashboard" at approximately 5:00PM ET on 1 October 2020 will now be used to resolve this question.The question closed "More than 120,000 but fewer than 150,000" with a closing date of 1 October 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Dubai Future Experts Challenge
+
+
+Coronavirus Outbreak
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+Finance
+ 
+  
+Economic Indicators
+ 
+
+        
+
+
+
+
+The outcome will be determined using data as reported by Bloomberg (Bloomberg). The S&P 500 Index closed at 3,100.29 on 30 June 2020.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Up between 5.0% and 15.0%, inclusive" with a closing date of 30 September 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+The Economist: The World in 2020
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+Leader Entry/Exit
+ 
+  
+Security and Conflict
+ 
+
+        
+
+
+
+
+Speculation abounds as to the health and whereabouts of Supreme Leader Kim Jong-un (Economist, Yahoo, CNN). The naming of a new head of state in an acting capacity would count.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 1 October 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+  
+Entertainment
+ 
+
+        
+
+
+
+
+Despite the COVID-19 pandemic, Christopher Nolan's film Tenet is expected to be released on 17 July 2020 as originally scheduled, though it remains to be seen how many theaters will reopen as well as how many moviegoers will return to theaters once opened (Screen Rant). The outcome will be determined using gross “To Date” data for 8 September as reported by Box Office Mojo (Box Office Mojo). This question's closing date will not be changed to accommodate any rescheduling of the film's release.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Between $1 million and $80 million, inclusive" with a closing date of 8 September 2020. While Box Office Mojo does not have as granular of data as usual, all available information indicate that the total domestic box office gross for Tenet as of 8 September 2020 was between $1 million and $80 million, inclusive.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Dubai Future Experts Challenge
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+
+        
+
+
+
+
+The UAE has implemented varying virus spread mitigation measures as it lifts many previous restrictions (U.S. Embassy - UAE). The outcome will be determined using information reported by the Johns Hopkins COVID-19 Dashboard (JHU COVID-19 Dashboard). The relevant data can be accessed by selecting “United Arab Emirates” under “Confirmed Cases by Country/Region/Sovereignty” on the left side and then clicking the the “Daily Cases” tab on the bottom right.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "No" with a closing date of 17 September 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+Finance
+ 
+  
+Economic Policy
+ 
+
+        
+
+
+
+
+The U.S. federal funds rate is the interest rate charged for overnight lending among financial institutions with accounts at the Federal Reserve and sets the base rate for borrowing costs across the financial system (Federal Reserve). The target range for the federal funds rate is set by the Federal Open Market Committee (FOMC). Its September meeting is scheduled for 15-16 September 2020. Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Same" with a closing date of 16 September 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+  
+Entertainment
+ 
+
+        
+
+
+
+
+Disney’s live-action remake of Mulan was scheduled to be released 27 March 2020, but was delayed to 24 July 2020 due to the COVID-19 pandemic (Deadline). How many theaters will have reopened by then remains to be seen, as well as how many moviegoers may return to theaters once reopened (Screen Rant). The outcome will be determined using gross “To Date” data for 8 September as reported by Box Office Mojo (Box Office Mojo).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.Note 7 May 2020: This question's closing date will not be changed to accommodate any rescheduling of the film's release.Note 4 September 2020: Disney Plus revenue does not count toward box office gross.The question closed "Less than $1 million" with a closing date of 8 September 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+Society
+ 
+  
+Health
+ 
+
+        
+
+
+
+
+The Swedish Scholastic Aptitude Test (Högskoleprovet in Swedish) is a standardized test held twice a year and used for admissions to Swedish universities (Studera.nu, Umeå University [in Swedish]). The Spring exam was canceled due to the COVID-19 pandemic (The Local). The next test is scheduled for 18 October 2020 (Högskoleprov.nu [in Swedish]).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Yes" with a closing date of 7 August 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+Society
+ 
+  
+Health
+ 
+
+        
+
+
+
+
+Saudi authorities have suggested that Muslims should delay confirming plans to make the annual pilgrimage to Mecca amid the COVID-19 pandemic (Guardian, Middle East Eye, Al Jazeera). An announcement of restrictions without a cancellation or suspension would not count.
+Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.
+The question closed "No" with a closing date of 28 July 2020.
+
+See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+
+Question clarification
+
+Issued on 06/04/20 12:56pm
+          GJ Open does not consider the May announcement of the continuation of a curfew in Mecca as it applies to pilgrimages through 21 June, which was in place prior to the launch of this question, to be a de facto announcement by Saudi Arabia about the cancellation or suspension of the Hajj pilgrimage scheduled for 28 July to 2 August 2020.
+        
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+The Economist: The World in 2020
+
+
+
+
+
+          Tags
+        
+
+
+Business
+ 
+  
+Economic Policy
+ 
+  
+Foreign Policy
+ 
+
+        
+
+
+
+
+OPEC members have agreed to cut oil production due to decreased demand related to the COVID-19 pandemic (Economist, BBC, Reuters). The outcome will be determined using monthly data for "Total OPEC" reported in the "OPEC crude oil production based on secondary sources, tb/d" table of the "World Oil Supply" section of OPEC's Monthly Oil Market Report (OPEC). The March 2020 report shows "Total OPEC" produced 27,772 thousand barrels per day (tb/d) in February 2020 (OPEC, see Table 5.8 on page 53 in the document). The question will be suspended on 30 June 2020 and closed when the June data are released, scheduled for July.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "More than 21,000 tb/d but less than 24,000 tb/d" with a closing date of 1 July 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+
+        
+
+
+
+
+Texas has continued to take steps to reopen its economy amid the COVID-19 pandemic while seeing a rise in both cases and hospitalizations (National Law Review, CNBC, NPR). The outcome will be determined using data provided on the Texas Department of State Health Services' COVID-19 Test and Hospital data page (TX Dept. of State Health Services). At the bottom of the page, click the "Hospitals - Statewide" tab. Hover your cursor over a column for a date for the exact figure. COVID-19 hospitalizations in Texas on 1 June 2020 were 1,756.
+See our FAQ to learn about how we resolve questions and how scores are calculated.
+The question closed "More than 10,000" with a closing date of 10 July 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Foxes Ask
+
+
+
+
+
+          Tags
+        
+
+
+Foreign Policy
+ 
+  
+Security and Conflict
+ 
+
+        
+
+
+
+
+Tensions have flared along the disputed border between India and China, with violent clashes reported in early May (Hindustan Times, Time, Washington Post). A lethal confrontation is one that results in one fatality for the military forces, militia, and/or law enforcement of either side.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Yes" with a closing date of 15 June 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2020
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+
+        
+
+
+
+
+On 1 May 2020 Texas lifted its stay-at-home restrictions and began allowing some businesses to reopen so long as they follow a minimum standard health protocol set by the state and limit their occupancy (Texas Tribune). The question will be suspended on 12 June 2020. The outcome will be determined using data as reported by the Texas Department of State Health Services for the week ending on 13 June 2020 as of 5:00PM ET on 14 June 2020 (Texas Department of State Health Services, click “Trends”).
+Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.
+The question closed "Between 1,350 and 1,800, inclusive" with a closing date of 14 June 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+
+        
+
+
+
+
+The question will be suspended on 16 May 2020. The outcome will be determined using data from The COVID Tracking Project for Sunday 17 May 2020 as of 5:00PM ET on Monday 18 May 2020 under "Positive" (The COVID Tracking Project).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "More than 1,450,000 but less than 1,500,000" with a closing date of 17 May 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+
+        
+
+
+
+
+The question will be suspended on 9 May 2020. The outcome will be determined using data from The COVID Tracking Project for Sunday 10 May 2020 as of 5:00PM ET on Monday 11 May 2020 under "Positive" (The COVID Tracking Project).Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "Between 1,300,000 and 1,350,000, inclusive" with a closing date of 10 May 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Coronavirus Outbreak
+
+
+
+
+
+          Tags
+        
+
+
+Health
+ 
+
+        
+
+
+
+
+The question will be suspended on 2 May 2020. The outcome will be determined using data from The COVID Tracking Project for Sunday 3 May 2020 as of 4:00PM ET on Monday 4 May under "Positive" (The COVID Tracking Project). The COVID Tracking Project reported 773,020 total cases through 20 April 2020.Check our FAQ or ask us for help. To learn more about Good Judgment and Superforecasting, click here.The question closed "More than 1,150,000 but less than 1,200,000" with a closing date of 3 May 2020.See our FAQ to learn about how we resolve questions and how scores are calculated.
+
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+This is a notifications test. Please disregard.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Arab Strategy Forum - State of the World 2017
+
+
+
+
+
+          Tags
+        
+
+
+Economic Indicators
+ 
+
+        
+
+
+
+Egypt's economy has sputtered since 2011 despite billions of dollars in aid from neighboring states; the promise of a three-year, $12-billion loan package from the International Monetary Fund -- and the reforms that loan would require -- are spurring optimism among some observers and pessimism among others (NY Times, Financial Times, Reuters). Question will be resolved using data from Egypt's Central Bank, which releases monthly data on real sector growth (Central Bank of Egypt). You can find the relevant table by clicking on the "Real Sector" Excel sheet and looking at Tab 44 "GDP by Expenditure (Constant Prices)." The relevant figure for this question is on the "GDP at Market Prices" row, and the column labeled 2016/2017 under "Growth Rate %". Question will be suspended on 30 June 2017, the end of Egypt's fiscal 2016/2017 fiscal year, and closed when the data is released, typically in early December.
+
+Recommended Questions
+What will the end-of-day closing value for the British pound against the US dollar be on 30 December 2016?
+In 2016 will any of the G7 countries experience either inflation of 2% or more or GDP growth of 2.5% or more?
+
+Egypt's growth rate did not equal or exceed 5% (Central Bank of Egypt). This question closed as "No" with an end date of July 1 2017.
+
+See our FAQ to learn about how we resolve questions and how scores are calculated. 
+
+
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2017-2018)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 31 March 2018 and will be resolved in January 2019 after EWP assesses the situation in Turkey from January 2018 through December 2018. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (Early Warning Project) for examples. See here for GJÍs FAQ on forecasting questions like this.
+
+
+
+This question closed as No. (EWP/GJOpen) 
+
+See our FAQ to learn about how we resolve questions and how scores are calculated. 
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2017-2018)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 31 March 2018 and will be resolved in January 2019 after EWP assesses the situation in Yemen from January 2018 through December 2018. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (Early Warning Project) for examples. See here for GJÍs FAQ on forecasting questions like this.
+
+
+
+This question closed as No. (EWP/GJOpen) 
+
+See our FAQ to learn about how we resolve questions and how scores are calculated. 
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2017-2018)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 31 March 2018 and will be resolved in January 2019 after EWP assesses the situation in Zimbabwe from January 2018 through December 2018. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (Early Warning Project) for examples. See here for GJÍs FAQ on forecasting questions like this.
+
+
+
+This question closed as No. (EWP/GJOpen) 
+
+See our FAQ to learn about how we resolve questions and how scores are calculated. 
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2017-2018)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 31 March 2018 and will be resolved in January 2019 after EWP assesses the situation in South Sudan from January 2018 through December 2018. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (Early Warning Project) for examples. See here for GJÍs FAQ on forecasting questions like this.
+
+
+
+This question closed as Yes. (EWP/GJOpen) 
+
+See our FAQ to learn about how we resolve questions and how scores are calculated. 
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2017-2018)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 31 March 2018 and will be resolved in January 2019 after EWP assesses the situation in Iraq from January 2018 through December 2018. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (Early Warning Project) for examples. See here for GJÍs FAQ on forecasting questions like this.
+
+
+
+This question closed as No. (EWP/GJOpen) 
+
+See our FAQ to learn about how we resolve questions and how scores are calculated. 
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Yemen from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Sudan from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Afghanistan from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in the Central African Republic from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Burundi from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Mali from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Pakistan from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g. military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g. in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in the Democratic Republic of the Congo from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Ethiopia from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Turkey from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Nigeria from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Bangladesh from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Zimbabwe from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in Iraq from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (The EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The EWP). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 September 2018 and will be resolved in July 2019 after EWP assesses the situation in the Philippines from July 2018 to June 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilians fatalities occur in one or more campaigns. See (EWP) for examples. See (GJOpen) for GJ’s FAQ on forecasting questions like this.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News
+
+
+Finance Forecasting Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Finance
+ 
+
+        
+
+
+
+The U.S. federal funds rate is the interest rate charged for overnight lending among financial institutions with accounts at the Federal Reserve and sets the base rate for borrowing costs across the financial system (Investopedia, The Federal Reserve). The upper limit of the range, set by the Federal Open Market Committee, was 2.5% at the end of the trading day on 31 January 2019 (The Federal Reserve, The Federal Reserve).The question closed "Lower" with a closing date of 1 August 2019 (The Federal Reserve).  See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+The Economist: The World in 2019
+
+
+
+
+
+          Tags
+        
+
+
+Sports
+ 
+
+        
+
+
+
+
+
+The Men's ICC Cricket World Cup Final is scheduled to be held on 14 July 2019 in London (https://www.cricketworldcup.com).The question closed "England" with a closing date of 14 July 2019 (BBC).  See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In the News 2018 
+
+
+The 2018 SCOTUS Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Society
+ 
+  
+US Politics
+ 
+
+        
+
+
+
+Terance Gamble was convicted of being a felon in possession of a firearm by both the State of Alabama and the federal government (SCOTUSBlog). He appealed his federal conviction, arguing that being prosecuted for the same crime by two courts violates the Double Jeopardy Clause of the Fifth Amendment (Constitution Center).  The Eleventh Circuit affirmed his conviction, noting that the Supreme Court had ruled “that prosecution in federal and state court for the same conduct does not violate the Double Jeopardy Clause because the state and federal governments are 'separate sovereigns' (SCOTUSBlog).”  The Supreme Court is expected to hand down its decision in its current term, but if it does not, the question will resolve as no. See our FAQ to learn about how we resolve questions and how scores are calculated.The question closed "No" with a closing date of 17 June 2019 (SCOTUS).  See our FAQ to learn about how we resolve questions and how scores are calculated.. 
+
+
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Finance Forecasting Challenge
+
+
+
+
+
+          Tags
+        
+
+
+Finance
+ 
+
+        
+
+
+
+Outcome will be determined by data from the Mortgage Bankers Association Weekly Applications Survey press release, generally published five days after the week's end at https://www.mba.org/news-research-and-resources/newsroom. For the week ending 12 April 2019, the rate was 4.44% (https://www.mba.org/2019-press-releases/april/mortgage-applications-decrease-in-latest-mba-weekly-survey-x251726).The question closed "Yes" with a closing date of 1 June 2019 (MBA).  See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in the Sudan from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in the Yemen from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in the Myanmar from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in Nigeria from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in Afghanistan from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in the Central African Republic from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in Burundi from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in Mali from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in Pakistan from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in the Democratic Republic of the Congo from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in Ethiopia from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in Turkey from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in Bangladesh from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in Zimbabwe from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in Iraq from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as No. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in the Philippines from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as Yes. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+Early Warning Project (2018-2019)
+
+
+
+
+
+          Tags
+        
+
+
+Society
+ 
+  
+Security and Conflict
+ 
+
+        
+
+
+
+The EWP is asking forecasters to help provide early risk assessments to policy makers, NGOs, and other international actors about the systematic killing of civilians resulting in mass fatalities (The Early Warning Project). This question is part of a series of quarterly questions (Good Judgment Inc). It will be suspended on 30 June 2018 and will be resolved in April 2019 after EWP assesses the situation in South Sudan from April 2018 to March 2019. Armed groups include but are not limited to state security forces, rebel armies, and other militias. Campaigns that systematically kill civilians include, but are not limited to, policies which intentionally kill civilians en masse (e.g., military strategies that intentionally target civilians, mass execution of a specific group) and policies that knowingly result in widespread death (e.g., mass starvation, confiscation of health care supplies, forced relocation). In general, unrelated executions of individuals or the accidental killing of civilians in war will not be considered a campaign to systematically kill civilians. If an armed group is engaged in multiple campaigns that systematically kill civilians (e.g., in different geographic areas, or targeted against separate civilian groups) those fatalities will be counted separately and the question will only resolve as yes if 1,000 civilian fatalities occur in one or more campaigns. See (EWP) for examples. See here for GJÍs FAQ on forecasting questions like this.This question closed as Yes. (EWP/GJOpen)See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+
+
+
+          Challenges
+        
+
+
+In The News 2019 
+
+
+
+
+
+          Tags
+        
+
+
+Foreign Policy
+ 
+  
+Elections and Referenda
+ 
+
+        
+
+
+
+An election date generally must be set at least three weeks in advance, and Denmark is constitutionally required to hold its next general election four years after the last (Statsministeriet, Folketing (Parliamentary) Elections Act, The Guardian, Reuters).Danish Prime Minister Lars Lokke Rasmussen announced an election date of 5 June on 7 May 2019 (https://www.reuters.com/article/us-denmark-election/denmarks-prime-minister-calls-election-to-be-held-on-june-5-idUSKCN1SD180).See our FAQ to learn about how we resolve questions and how scores are calculated.
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
+process have error in 
+Kanye West has called for a meeting between President Trump and NFL quarterback Colin Kaepernick (ABC). Kaepernick initiated the protest movement of not standing during the national anthem played at NFL games, which President Trump has criticized (NFL, CNN).
+
+
+
+ This question closed No with a closing date of 3 February.
+
+See our FAQ to learn about how we resolve questions and how scores are calculated. 
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 35, in process
+    return challenges_list,tags_list,description
+UnboundLocalError: local variable 'tags_list' referenced before assignment
