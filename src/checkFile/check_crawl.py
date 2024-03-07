@@ -1,11 +1,11 @@
 
-
+import json
 import os
-
+import pdb
 class FileChecker:
     def __init__(self, directory, expected_files=None):
         if expected_files is None:
-            expected_files
+            expected_files = ['praw_reddit.jsonl', 'rq_arxiv_mathematics.jsonl', 'rq_arxiv_q_finance.jsonl', 'wr_Yahoo.jsonl', 'wr_quora_Movies.jsonl', 'rq_arxiv_computer_science.jsonl', 'rq_arxiv_statistics.jsonl', 'wr_bbc.jsonl', 'wr_quora_Technology.jsonl', 'rq_arxiv_economics.jsonl', 'rq_arxiv_physics.jsonl', 'rq_github.jsonl', 'wr_quora_Health.jsonl', 'wr_wiki.jsonl', 'rq_arxiv_eess.jsonl', 'rq_arxiv_q_biology.jsonl', 'rq_wattpad.jsonl', 'wr_quora_Mathematics.jsonl']
         self.directory = directory
         self.expected_files = expected_files
 
@@ -27,25 +27,60 @@ class TextFileChecker(FileChecker):
 class JsonFileChecker(FileChecker):
     def check_file_content(self, file_name):
         # check file length > 10:
-        with open(file_name,'r') as f:
+        to_file=os.path.join(self.directory,file_name)
+        with open( to_file,'r') as f:
             lines=f.readlines()
             if len(lines)<10:
-                print()
-        # 实现检查JSON文件结构的逻辑
-        # pass
+                print(f"file {file_name} has less than 10 lines")
+                return False
+            else:
+                cnt=0
+                total=len(lines)
+                for line in lines:
+                    data = json.loads(line.strip())
+                    # if 'rq' in file_name:
+                        # pdb.set_trace()
+                    if 'text_blocks' in data.keys() and len(data['text_blocks']) > 10:
+                        cnt+=1
+                if cnt>total/3*1:
+                    return True
+                else:
+                    print(f"file {file_name} has less than 2/3 lines with text_blocks > 10, cnt:{cnt},total:{total},first lines:{lines[0][:100]} ")
+                    return False
 
-print('he')
+def test_check_files_exist(directory=None, expected_files=None):
+    if directory is None:
+        directory = os.path.join('data','2024-01-03')
+
+    json_checker = JsonFileChecker(directory=directory,expected_files=expected_files)
+
+    # 检查文件存在性
+    missing_files =json_checker.check_files_exist()
+    if missing_files:
+        print("missing files:", missing_files)
+    else:
+        print("no missing files.")
+    check_file_content = json_checker.check_file_content
+    okay_files, not_okay_files = [], []
+    for file in json_checker.expected_files:
+        if file in missing_files:
+            continue
+        if check_file_content(file):
+            okay_files.append(file)
+        else:
+            not_okay_files.append(file)
+    print(f"file {not_okay_files} content NOT OK\n")
+    print(f"file {okay_files} content are okay\n")
 
 
+if __name__ == "__main__":
+    # check at the root of the project
 
-# 假设我们有一个需求，需要检查某个目录下是否存在特定的文本文件和JSON文件
-directory = "/path/to/your/directory"
-expected_files = ["config.json", "readme.txt"]
+    # directory = os.path.join('data','2024-02-14')
+    test_check_files_exist()
 
-# 实例化检查器
-text_checker = TextFileChecker(directory, [expected_files[1]])
-json_checker = JsonFileChecker(directory, [expected_files[0]])
 
+# <<<<<<< HEAD
 # 检查文件存在性
 missing_files = text_checker.check_files_exist() + json_checker.check_files_exist()
 if missing_files:
@@ -60,3 +95,5 @@ else:
 
 # missing_files = [file for file in self.expected_files if not os.path.exists(os.path.join(self.directory, file))] return missing_files
 # missing_files = text_checker.check_files_exist() + json_checker.check_files_exist() if missing_files: print("以下文件缺失:", missing_files) else: print("所有预期文件均存在。")
+# =======
+# >>>>>>> refs/remotes/origin/main

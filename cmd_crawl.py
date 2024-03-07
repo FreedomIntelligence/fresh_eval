@@ -9,8 +9,12 @@ from src.reddit.praw import praw_reddit as praw_reddit
 from src.quora.wr import wr_quora as wr_quora
 from src.github.rq import rq_github as rq_github
 
+<<<<<<< HEAD
 # from src.checkFile.check_crawl import check_crawl
 #TODO what do the check file done?
+=======
+from src.checkFile.check_crawl import test_check_files_exist
+>>>>>>> refs/remotes/origin/main
 
 import os
 import datetime
@@ -73,3 +77,5 @@ for crawler in crawl_list:
     except Exception as e:
         import traceback
         logging.error(f"crawler {crawler.__name__} failed, time_used:{round(time.time()-st_time,2)}, error:{e},trackback:{traceback.format_exc()}")
+
+test_check_files_exist(directory=os.path.join('data','doday'))
