@@ -31,8 +31,8 @@ def praw_reddit(config=None):
                 # f.write(f"Content: {post.selftext}\n")
                 # f.write(f"Link: {post.url}\n\n")
                 entry = {"date": datetime.datetime.now().strftime("%Y-%m-%d-%H-%M"), "error": False, "url": post.url,'text_blocks':post.selftext}
-
-                json.dump(entry, f, ensure_ascii=False)
-                f.write("\n")
+                if len(post.selftext)>10:
+                    json.dump(entry, f, ensure_ascii=False)
+                    f.write("\n")
             # else:
                 # print(f"{post.url} not a reddit link")

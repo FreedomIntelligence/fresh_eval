@@ -9,7 +9,8 @@ from src.reddit.praw import praw_reddit as praw_reddit
 from src.quora.wr import wr_quora as wr_quora
 from src.github.rq import rq_github as rq_github
 
-from src.checkFile.check_crawl import check_crawl
+# from src.checkFile.check_crawl import check_crawl
+#TODO what do the check file done?
 
 import os
 import datetime
@@ -26,16 +27,20 @@ doday=datetime.datetime.now().strftime("%Y-%m-%d")
 # os.mkdir(f"/data/{doday}",exist_ok=True)
 os.makedirs(f"./data/{doday}", exist_ok=True)
 
-# crawl_list=[rq_github,wr_wiki,wr_quora,rq_arxiv,praw_reddit,wr_bbc,rq_wattpad,wr_Yahoo,]#,
-crawl_list=[praw_reddit,rq_wattpad,]#,rq_github,wr_wiki,wr_quorawr_Yahoo#wr_bbc
+crawl_list=[rq_github,wr_wiki,wr_quora,rq_arxiv,praw_reddit,wr_bbc,rq_wattpad,wr_Yahoo,]#,
+# crawl_list=[praw_reddit,rq_wattpad,]#,rq_github,wr_wiki,wr_quorawr_Yahoo#wr_bbc
+# crawl_list=[wr_bbc,wr_quora, wr_Yahoo]
 # crawl_list=[wr_Yahoo]
-# crawl_list=[rq_arxiv_year]
+
+crawl_list=[rq_arxiv]
 for crawler in crawl_list:
     config={}
     st_time=time.time()
     config['save_path']=f"./data/{doday}/{crawler.__name__}.jsonl"
     config['save_folder_pdf_arxiv']=f"./data/{doday}/{crawler.__name__}_pdfs"
     config["topic_quora"]=['Technology','Mathematics','Health','Movies']
+    # config["topic_quora"]=['Mathematics','Health','Movies']
+
     # config['headless']=True
     config['headless']=False
     

@@ -52,13 +52,38 @@ def run(playwright,config):
     # news_links = page.query_selector_all("a[data-testid='internal-link']")
 
     # news_links = page.query_selector_all("div[class='Pos(r) Z(2) Fw(b)'] h3 a")
-    news_links = page.query_selector_all("a:has(> u.StretchedBox)")
+    import pdb
+    pdb.set_trace()
+    # news_links = page.query_selector_all("a:has(> u.StretchedBox)")
+    news_links = page.query_selector_all("a:has(> h3)")
+    
+    # 在你提到的选择器"a:has(> u.StretchedBox)"中，使用的是CSS选择器的:has()伪类功能，这是一个相对较新的添加到CSS选择器中的功能，旨在提供一种选择器内查询的方式。它允许你选择那些包含特定后代元素的父元素。不过，要注意的是，:has()选择器在写作时有着一定的限制，特别是在Web自动化测试框架如Playwright中的支持情况可能会有所不同。
+    # :has(): 伪类选择器，用于选择包含符合括号内条件的元素的父元素。
+    # >: 是一个直接子代选择器，用于选择直接位于某元素内部的子元素。
+    # u.StretchedBox: 指的是具有StretchedBox类的<u>元素。
+    # 因此，"a:has(> u.StretchedBox)"的含义是：选择直接包含有类名为StretchedBox的<u>元素作为直接子元素的<a>元素。
+
+    # news_links = 
+    #slingstoneStream-0-Stream > ul > li:nth-child(41) > div > div > div.Ov\(h\).Pend\(44px\).Pstart\(25px\) > h3
+    # news_links = page.query_selector_all("h3[>a[title][href]]")
+
+    # news_links = page.query_selector_all("a[title][href]")
+    # # page.query_selector_all("a:has(>href)")
+    # page.query_selector_all("a:has(title)")
+    # len(urls)
+    # urls[:-40]
+    # news=[url for url in urls if 'news' in url]
+
+
+    # '''//*[@id="nimbus-app"]/section/section/section/article/section[6]/div/div[1]/div/div/ul/li[3]/section/div/a'''
+
     # page.query_selector_all("a:has(> u.StretchedBox)")#[5].inner_text()
     # page.query_selector_all("div[class='Pos(r) Z(2) Fw(b)']")[0]#.get_attribute("h3")# h3 a
     # news_links = page.query_selector_all("a[data-testid='internal-link']")
 
 
     urls = [link.get_attribute("href") for link in news_links if link.get_attribute("href")]
+    urls=[url for url in urls if 'news' in url]
     print(len(urls),'urls:',urls)
     # 遍历链接并提取信息
     for url in urls:#[20:26]
@@ -66,7 +91,8 @@ def run(playwright,config):
         if not url.endswith("html"):
             print("not endswith a html skip",url)
             continue
-        full_url=f"https://finance.yahoo.com/{url}"
+        # full_url=f"https://finance.yahoo.com/{url}"
+        full_url=url
         print("url:",full_url)
         page.goto(full_url)
         text_blocks=None
