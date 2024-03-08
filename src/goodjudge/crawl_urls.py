@@ -25,10 +25,17 @@ with open('gjo.csv', 'a', newline='',encoding='utf-8') as csvfile:
     fieldnames = ['Question', 'Started_time', 'Closed_time', 'Challenges_list', 'Tags_list', 'Description', 'Possible_Answers_dict']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
-    for url in tqdm.tqdm(urls[1838:]):# 1826 done 
+    for url in tqdm.tqdm(urls[0:]):# 1826 done 
         url=url.strip()
-        rtns=craw_gjopen(url)
-        writer.writerow(rtns)
+        try:
+            rtns=craw_gjopen(url)
+            writer.writerow(rtns)
+        except:
+            import traceback
+            print('error:',url)
+            with open('error_url.txt','a') as f:
+                f.write(url+'\n')
+                f.write(traceback.format_exc()+'\n')
         # time.sleep(0.5)
 
     

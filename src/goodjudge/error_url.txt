@@ -1,0 +1,1016 @@
+https://www.gjopen.com/questions/948-how-many-of-the-following-teams-will-not-qualify-for-the-2018-fifa-world-cup-s-round-of-16-argentina-belgium-brazil-england-france-germany-portugal-russia-spain-and-switzerland
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/891-how-many-mirais-will-toyota-sell-or-lease-between-january-2018-and-june-2018-inclusive
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/662-before-1-july-2018-will-the-us-federal-government-ban-the-manufacture-importation-possession-or-sale-of-bump-stocks
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/960-will-andres-manuel-lopez-obrador-win-the-2018-mexican-presidential-election
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/694-before-1-july-2018-will-waymo-launch-a-driverless-transportation-service-open-to-the-public
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/486-will-the-taliban-take-lashkar-gah-before-1-april-2018
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/898-which-team-will-win-the-2018-ncaa-division-i-men-s-basketball-championship
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/531-on-30-march-2018-what-will-be-the-u-s-federal-prison-population
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/699-how-many-seats-in-the-chamber-of-deputies-will-the-five-star-movement-and-any-pre-election-coalition-partners-win-in-the-next-italian-general-election
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/767-what-will-be-the-approval-rating-for-the-russian-government-in-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/610-will-russia-execute-and-or-sponsor-a-low-or-higher-level-cyber-attack-against-networks-owned-by-a-us-entity-between-19-september-2017-and-30-november-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/608-will-north-korea-execute-and-or-sponsor-a-low-or-higher-level-cyber-attack-against-networks-owned-by-a-us-entity-between-19-september-2017-and-30-november-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/391-will-angela-merkel-be-elected-as-chancellor-of-germany-after-the-2017-bundestag-election
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/687-which-parties-from-among-the-green-party-the-fdp-and-the-left-will-be-part-of-germany-s-next-governing-coalition
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/784-what-will-be-the-short-term-interest-rate-for-sweden-swe-in-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/683-before-1-january-2018-will-russia-and-egypt-sign-an-agreement-to-establish-a-russian-industrial-zone-on-the-suez-canal
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/481-before-1-january-2018-will-president-trump-sign-legislation-that-repeals-the-federal-estate-tax
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/774-what-will-be-the-short-term-interest-rate-for-south-africa-zaf-in-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/292-before-2018-which-country-will-be-the-first-to-experience-two-or-more-anti-government-mass-protests-within-one-week
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/811-between-8-december-2017-and-1-january-2018-will-there-be-a-shutdown-of-the-us-federal-government
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/477-how-many-removals-will-u-s-immigration-and-customs-enforcement-conduct-in-fiscal-year-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/422-what-will-be-the-closing-spot-price-for-brent-crude-oil-on-29-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/387-before-1-january-2018-will-the-european-council-announce-the-opening-of-formal-membership-negotiations-with-any-candidate-countries-or-designate-any-new-country-as-an-official-candidate-for-membership
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/532-how-many-countries-will-experience-10-or-more-cases-of-poliovirus-in-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/538-before-1-january-2018-will-the-u-s-president-sign-legislation-increasing-the-number-of-autonomous-vehicle-exemptions-allowed-by-the-federal-motor-vehicle-safety-standards
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/533-before-1-january-2018-how-many-countries-from-among-saudi-arabia-the-uae-bahrain-and-egypt-will-return-their-ambassador-to-qatar
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/386-before-1-january-2018-will-turkey-montenegro-albania-serbia-or-macedonia-announce-that-it-is-suspending-its-participation-in-eu-membership-negotiations-or-withdrawing-from-the-eu-accession-process
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/310-when-will-china-next-deploy-a-deep-sea-oil-rig-in-another-country-s-exclusive-economic-zone-eez-without-that-country-s-permission
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/796-will-there-be-any-single-day-in-december-2017-during-which-15-or-more-ukrainian-military-personnel-are-killed
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/798-will-the-un-security-council-adopt-a-resolution-concerning-myanmar-by-31-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/753-will-the-european-union-announce-the-imposition-of-a-travel-ban-or-seizure-of-assets-of-a-venezuelan-government-official-between-30-november-and-31-december
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/765-will-the-un-security-council-adopt-a-resolution-concerning-somalia-between-29-november-2017-and-22-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/755-will-a-framework-for-an-end-to-the-syrian-conflict-be-agreed-upon-by-31-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/756-will-great-britain-announce-a-second-referendum-on-brexit-by-31-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/757-will-a-lethal-confrontation-involving-national-military-forces-of-saudi-arabia-and-iran-result-in-at-least-one-fatality-for-either-side-in-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/808-how-many-viewers-will-tune-in-to-watch-sunday-night-football-on-10-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/419-before-1-january-2018-will-a-confrontation-in-the-south-or-east-china-sea-between-the-military-forces-militia-or-law-enforcement-personnel-of-china-and-another-country-result-in-3-fatalities
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/485-will-a-loya-jirga-convene-in-afghanistan-before-2018
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/369-will-poland-reinstate-visa-free-travel-for-kaliningrad-before-2018
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/464-will-the-un-declare-a-famine-in-any-part-of-nigeria-in-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/368-will-india-sign-either-of-the-two-remaining-defense-foundational-agreements-with-the-u-s-before-2018
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/789-how-many-influenza-positive-viruses-will-flunet-record-for-costa-rica-between-27-november-2017-and-3-december-2017-epidemiological-week-48
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/775-what-will-be-the-approval-rate-for-japan-s-cabinet-in-nhk-s-monthly-survey-in-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/817-what-will-be-the-daily-closing-price-of-gold-on-19-december-2017-in-usd
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/793-how-many-earthquakes-of-magnitude-5-or-stronger-will-occur-worldwide-between-1-december-2017-and-15-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/783-what-will-be-the-daily-closing-price-of-finland-s-omx-helsinki-25-index-indexnasdaq-omxh25-on-15-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/782-what-will-be-the-daily-closing-price-of-the-uk-s-ftse-100-index-indexftse-ukx-on-15-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/286-before-2018-will-there-be-a-new-president-of-zimbabwe
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/791-what-will-be-the-daily-closing-price-of-germany-s-dax-performance-index-indexdb-dax-on-15-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/792-what-will-be-the-daily-closing-price-of-norway-s-omx-oslo-20-pi-index-indexnasdaq-omxo20pi-on-15-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/781-what-will-be-the-daily-closing-price-of-belgium-s-bel-20-indexeuro-bel20-on-15-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/776-what-will-be-the-south-african-rand-to-one-u-s-dollar-daily-exchange-rate-on-11-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/777-what-will-be-the-u-s-dollars-to-one-new-zealand-dollar-daily-exchange-rate-on-11-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/778-what-will-be-the-south-korean-won-to-one-u-s-dollar-daily-exchange-rate-on-11-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/601-what-will-the-norwegian-kroner-to-one-u-s-dollar-daily-exchange-rate-be-on-31-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/549-how-many-hacking-or-malware-data-breaches-will-privacy-rights-clearinghouse-record-for-september-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/634-how-many-earthquakes-of-magnitude-5-or-stronger-will-occur-worldwide-in-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/635-what-will-the-short-term-interest-rate-be-for-australia-aus-in-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/677-how-many-viewers-will-tune-in-to-watch-sunday-night-football-on-5-november-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/636-what-will-the-daily-closing-price-of-germany-s-dax-performance-index-indexdb-dax-be-on-31-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/599-will-acled-record-any-riot-protest-events-in-mozambique-in-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/614-will-acled-record-any-civilian-fatalities-in-angola-in-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/615-will-acled-record-any-civilian-fatalities-in-zimbabwe-in-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/640-will-acled-record-any-riot-protest-events-in-sierra-leone-between-15-october-2017-and-31-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/641-will-acled-record-any-civilian-fatalities-in-tunisia-between-15-october-2017-and-31-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/642-how-many-battle-deaths-will-acled-record-in-the-democratic-republic-of-the-congo-in-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/304-when-will-a-lethal-confrontation-involving-the-national-military-forces-of-north-korea-and-either-south-korea-or-the-united-states-result-in-a-fatality-for-either-side
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/279-will-negotiations-on-a-china-gulf-cooperation-council-gcc-free-trade-agreement-be-completed-before-1-october-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/487-before-1-october-2017-will-it-be-announced-that-the-large-hadron-collider-has-found-evidence-of-sparticles
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/556-what-will-the-long-term-interest-rate-be-for-colombia-col-in-august-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/551-before-1-january-2018-will-the-catalan-government-hold-a-public-vote-on-independence
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/425-what-will-be-the-end-of-day-spot-price-of-an-ounce-of-gold-on-29-september-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/503-will-the-kurdistan-regional-government-hold-a-popular-vote-on-independence-before-1-january-2018
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/494-what-percentage-of-the-popular-vote-will-the-alternative-for-germany-party-win-in-germany-s-next-federal-election
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/546-will-acled-record-any-riot-protest-events-in-cote-d-ivoire-in-august-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/547-how-many-battle-deaths-will-acled-record-in-sudan-in-august-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/528-when-will-fitch-moody-s-or-s-p-next-downgrade-china-s-long-term-local-or-foreign-currency-issuer-ratings
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/433-what-percentage-of-u-s-equity-funds-will-be-outperformed-by-the-s-p-composite-1500-index-for-the-one-year-period-ending-30-june-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/473-will-the-u-s-federal-debt-ceiling-be-raised-or-suspended-before-1-december-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/566-what-will-the-long-term-interest-rate-be-for-south-africa-zaf-in-august-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/568-will-acled-record-any-riot-protest-events-in-senegal-during-september-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/570-what-will-be-the-approval-rate-for-japan-s-cabinet-in-nhk-s-monthly-survey-in-september-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/281-will-ashraf-ghani-cease-to-be-president-of-afghanistan-before-1-july-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/371-will-the-value-of-announced-global-mergers-and-acquisitions-m-a-deals-during-the-second-quarter-of-2017-exceed-those-in-the-second-quarter-of-2016
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/302-before-1-july-2017-will-the-us-endorse-a-peace-plan-which-allows-bashar-al-assad-to-remain-in-power
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/413-before-1-july-2017-will-new-federal-funding-be-approved-for-the-california-high-speed-rail-authority-s-bullet-train-project
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/427-before-1-january-2018-will-the-european-commission-find-google-liable-in-an-antitrust-case
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/496-who-will-win-georgia-s-6th-congressional-district-in-the-upcoming-special-election
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/428-will-montenegro-become-a-full-nato-member-before-1-january-2018
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/363-will-the-dakota-access-pipeline-begin-transporting-oil-before-january-2018
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/227-when-will-anti-islamic-state-forces-retake-raqqa
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/367-will-palestinian-president-mahmoud-abbas-and-israeli-prime-minister-benjamin-netanyahu-meet-to-discuss-the-peace-process-before-1-june-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/398-which-film-will-win-the-2017-academy-award-for-writing-adapted-screenplay
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/400-who-will-win-the-2017-academy-award-for-actor-in-a-supporting-role
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/402-which-film-will-win-the-2017-academy-award-for-animated-feature-film
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/394-which-film-will-win-the-2017-academy-award-for-best-picture
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/73-will-there-be-a-lethal-confrontation-in-the-south-or-east-china-sea-region-involving-china-s-and-another-country-s-national-military-forces-or-law-enforcement-personnel-before-1-january-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/70-will-any-nato-member-invoke-article-4-in-response-to-actions-taken-by-russia-before-1-january-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/278-how-many-syrian-refugees-will-the-unhcr-register-in-turkey-lebanon-jordan-iraq-egypt-and-north-africa-before-1-january-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/300-will-an-uber-self-driving-car-with-a-member-of-the-public-as-a-passenger-be-involved-in-an-auto-accident-while-driving-autonomously-between-14-october-2016-and-1-january-2016
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/248-which-presidential-candidate-will-win-north-carolina
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/247-which-presidential-candidate-will-win-georgia
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/241-which-presidential-candidate-will-win-pennsylvania
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/240-which-presidential-candidate-will-win-ohio
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/235-which-presidential-candidate-will-win-florida
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/178-will-senator-rob-portman-r-oh-be-re-elected-this-november
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/177-will-senator-ron-johnson-r-wi-be-re-elected-this-november
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/282-will-senator-kelly-ayotte-r-nh-be-re-elected-this-november
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/345-will-the-government-of-colombia-and-the-farc-renegotiate-a-peace-agreement-before-1-march-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/172-will-the-department-of-justice-indict-hillary-clinton-before-8-november-2016
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/160-which-party-will-hold-the-majority-of-seats-in-the-us-house-of-representatives-after-the-november-2016-election
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/159-which-party-will-hold-the-majority-of-seats-in-the-us-senate-after-the-november-2016-election
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/44-will-roger-goodell-be-commissioner-of-the-nfl-at-the-start-of-the-2016-regular-season
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/197-will-dilma-rousseff-cease-to-be-president-of-brazil-before-1-january-2017
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/17-will-iran-s-president-hassan-rouhani-meet-saudi-arabia-s-king-salman-bin-abdulaziz-al-saud-before-1-september-2016
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/13-will-the-city-of-venice-lift-its-ban-on-jean-a-deux-maman-or-piccolo-uovo-before-1-september-2016
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/258-will-congresswoman-debbie-wasserman-schultz-d-fl-win-her-30-august-primary-race
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/196-when-will-the-government-of-colombia-and-the-farc-sign-a-final-peace-agreement
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/213-which-country-will-win-the-most-gold-medals-in-brazil-this-summer
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/62-will-there-be-a-new-king-of-saudi-arabia-before-1-june-2016
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/135-will-the-un-security-council-pass-a-resolution-expanding-sanctions-on-north-korea-before-1-june-2016
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/141-after-the-super-tuesday-primaries-which-republican-candidate-will-have-won-the-most-pledged-delegates
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/140-after-the-super-tuesday-primaries-which-democratic-candidate-will-have-won-the-most-pledged-delegates
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/9-will-the-government-of-venezuela-or-petroleos-de-venezuela-s-a-pdvsa-default-on-their-foreign-currency-debt-before-1-march-2016
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/125-which-movie-will-win-the-oscar-for-best-picture
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/102-who-will-win-uganda-s-next-presidential-election
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
+https://www.gjopen.com/questions/86-will-china-conduct-naval-exercises-with-any-asean-member-before-1-june-2016
+Traceback (most recent call last):
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\crawl_urls.py", line 31, in <module>
+    rtns=craw_gjopen(url)
+  File "C:\Users\jijivski\Desktop\local_VS\fresh_eval\src\goodjudge\request_one_question.py", line 57, in craw_gjopen
+    question_heading = soup.find('h3', id='question-name-header').text.strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+
